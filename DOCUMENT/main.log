@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.27)  27 MAY 2024 14:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.27)  28 MAY 2024 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -845,10 +845,10 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box65
 ) (./main.aux (./cover.aux
-LaTeX Font Info:    Trying to load font information for LGR+mak on input line 6.
+LaTeX Font Info:    Trying to load font information for LGR+mak on input line 7.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/lgrmak.fd)
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 6.
+(Font)              scaled to size 10.79993pt on input line 7.
 ) (./chapter1.aux) (./acronyms.aux))
 \openout1 = `main.aux'.
 
@@ -1008,25 +1008,25 @@ LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/gpkerkis.enc} <../PICS/auth.pdf>]
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 40.
+(Font)              scaled to size 10.79993pt on input line 41.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{abstract}
-                    [1]
-LaTeX Font Info:    Font shape `T1/mak/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 45.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.47 \end{abstract}
+l.43 \end{abstract}
                     [1{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/kerkisec.enc}]
+LaTeX Font Info:    Font shape `T1/mak/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 46.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.58 \clearpage
+l.48 \end{abstract}
+                    [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \clearpage
                 [1])
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
 (Font)              scaled to size 12.9599pt on input line 31.
@@ -1076,7 +1076,7 @@ l.35 \include{chapter1}
  (./chapter1.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  1.
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 10.
+(Font)              scaled to size 12.9599pt on input line 12.
 ) [2
 
 
@@ -1095,29 +1095,36 @@ LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 (Font)              scaled to size 22.39185pt on input line 2.
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 (Font)              scaled to size 22.39185pt on input line 2.
-) [4
+LaTeX Font Info:    Font shape `T1/mak/m/it' will be
+(Font)              scaled to size 10.79993pt on input line 29.
+ [4
 
 
 
-] (./main.aux (./cover.aux) (./chapter1.aux) (./acronyms.aux))
+]
+Overfull \hbox (134.02837pt too wide) in paragraph at lines 78--80
+\T1/mak/m/n/12 2023-[]07-[]28-[]smarter-[]more-[]e^^^cient-[]coding-[]github-[]copilot-[]goes-[]beyond-[]codex-[]with-[]improved-[]ai-[]model/$[] 
+ []
+
+) [5] (./main.aux (./cover.aux) (./chapter1.aux) (./acronyms.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20079 strings out of 473993
- 379283 string characters out of 5741040
- 1929904 words of memory out of 5000000
- 42265 multiletter control sequences out of 15000+600000
- 598800 words of font info for 139 fonts, out of 8000000 for 9000
+ 20111 strings out of 473993
+ 379934 string characters out of 5741040
+ 1935904 words of memory out of 5000000
+ 42280 multiletter control sequences out of 15000+600000
+ 599637 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,6n,79p,607b,980s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb>
-Output written on main.pdf (9 pages, 117059 bytes).
+ 69i,6n,79p,1442b,1034s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb>
+Output written on main.pdf (10 pages, 143785 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 30 words of extra memory for PDF output out of 10000 (max. 10000000)
 

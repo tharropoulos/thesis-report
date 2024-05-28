@@ -15,46 +15,48 @@ Database file #2: references.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author in trendforce2023ai
 
 Done.
-You've used 1 entry,
+You've used 16 entries,
             4087 wiz_defined-function locations,
-            1350 strings with 17674 characters,
-and the built_in function-call counts, 381 in all, are:
-= -- 16
-> -- 1
-< -- 0
-+ -- 1
-- -- 0
-* -- 28
-:= -- 73
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 1
-chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 27
-empty$ -- 34
-format.name$ -- 0
-if$ -- 64
+            1433 strings with 21693 characters,
+and the built_in function-call counts, 10170 in all, are:
+= -- 687
+> -- 459
+< -- 17
++ -- 231
+- -- 111
+* -- 493
+:= -- 1574
+add.period$ -- 33
+call.type$ -- 16
+change.case$ -- 25
+chr.to.int$ -- 33
+cite$ -- 17
+duplicate$ -- 782
+empty$ -- 808
+format.name$ -- 117
+if$ -- 2284
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 6
-newline$ -- 28
-num.names$ -- 0
-pop$ -- 24
+int.to.str$ -- 16
+missing$ -- 202
+newline$ -- 81
+num.names$ -- 14
+pop$ -- 539
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 20
+skip$ -- 721
 stack$ -- 0
-substring$ -- 1
-swap$ -- 11
-text.length$ -- 0
+substring$ -- 109
+swap$ -- 559
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 1
-warning$ -- 0
-while$ -- 0
-width$ -- 2
-write$ -- 30
+type$ -- 16
+warning$ -- 1
+while$ -- 22
+width$ -- 18
+write$ -- 171
+(There was 1 warning)

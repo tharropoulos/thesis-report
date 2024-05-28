@@ -301,12 +301,12 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/gkb7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/gkb7a.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/gk7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/gk7a.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/ek8a.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ek8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/kerkisec.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8a.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/ekb8a.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8r.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/kerkisec.enc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/ek8a.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ek8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/kmath8a.tfm
@@ -381,8 +381,11 @@ INPUT ./main.bbl
 INPUT main.bbl
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ek8a.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8a.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/eki8a.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/ekb8a.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/eki8a.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/eki8r.tfm
 INPUT main.aux
 INPUT ./cover.aux
 INPUT ./cover.aux
@@ -394,4 +397,5 @@ INPUT ./acronyms.aux
 INPUT ./acronyms.aux
 INPUT acronyms.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Bold.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Italic.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb
