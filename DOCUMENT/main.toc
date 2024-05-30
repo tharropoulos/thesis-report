@@ -2,8 +2,8 @@
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \contentsline {chapter}{\numberline {1}Εισαγωγή}{2}{chapter.1}%
-\contentsline {subsection}{\numberline {1.0.1}Ακόμα ένας τίτλος}{2}{subsection.1.0.1}%
-\contentsline {chapter}{\numberline {{\greekscript \textAlpha \textnumeralsigngreek }}Ακρωνύμια και συντομογραφίες}{3}{appendix.Alph1}%
+\contentsline {section}{\numberline {1.1}Δημιουργία Κώδικα \textlatin {(Code Generation)} - Ολοκλήρωση Κώδικα \textlatin {(Code Completion)} }{3}{section.1.1}%
+\contentsline {chapter}{\numberline {{\greekscript \textAlpha \textnumeralsigngreek }}Ακρωνύμια και συντομογραφίες}{4}{appendix.Alph1}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
