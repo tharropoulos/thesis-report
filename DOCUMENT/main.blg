@@ -3,6 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: cover.aux
 A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: acronyms.aux
 The style file: IEEEtranSN.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -23,49 +24,53 @@ Warning--to sort, need author, organization, or key in githubcopilot
 Warning--to sort, need author or key in trendforce2023ai
 Warning--to sort, need author, organization, or key in vscode
 Warning--to sort, need author, organization, or key in githubstudentpack
+Warning--to sort, need author, editor, or key in swebok2004
+Warning--empty author and editor in swebok2004
+Warning--missing publisher in swebok2004
 Warning--empty author in trendforce2023ai
+Warning--missing publisher in irena2008
 Warning--empty journal in Rask2022
 
 Done.
-You've used 48 entries,
+You've used 68 entries,
             5264 wiz_defined-function locations,
-            1813 strings with 30535 characters,
-and the built_in function-call counts, 48402 in all, are:
-= -- 4244
-> -- 2542
-< -- 173
-+ -- 1055
-- -- 717
-* -- 2937
-:= -- 7156
-add.period$ -- 107
-call.type$ -- 48
-change.case$ -- 344
-chr.to.int$ -- 429
-cite$ -- 106
-duplicate$ -- 2767
-empty$ -- 3153
-format.name$ -- 789
-if$ -- 10693
+            1901 strings with 32625 characters,
+and the built_in function-call counts, 60495 in all, are:
+= -- 5410
+> -- 2881
+< -- 192
++ -- 1200
+- -- 813
+* -- 3574
+:= -- 9022
+add.period$ -- 146
+call.type$ -- 68
+change.case$ -- 426
+chr.to.int$ -- 476
+cite$ -- 151
+duplicate$ -- 3562
+empty$ -- 4138
+format.name$ -- 902
+if$ -- 13394
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 531
-newline$ -- 192
-num.names$ -- 176
-pop$ -- 1895
+missing$ -- 681
+newline$ -- 272
+num.names$ -- 216
+pop$ -- 2484
 preamble$ -- 1
-purify$ -- 281
+purify$ -- 342
 quote$ -- 2
-skip$ -- 3222
+skip$ -- 4071
 stack$ -- 0
-substring$ -- 1088
-swap$ -- 1814
-text.length$ -- 23
-text.prefix$ -- 0
+substring$ -- 1234
+swap$ -- 2216
+text.length$ -- 27
+text.prefix$ -- 9
 top$ -- 6
-type$ -- 1142
-warning$ -- 6
-while$ -- 196
+type$ -- 1556
+warning$ -- 10
+while$ -- 232
 width$ -- 0
-write$ -- 562
-(There were 6 warnings)
+write$ -- 776
+(There were 10 warnings)

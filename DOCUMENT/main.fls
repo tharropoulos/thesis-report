@@ -191,6 +191,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/gk7t.tfm
 INPUT ./chapter1.aux
 INPUT ./chapter1.aux
 INPUT chapter1.aux
+INPUT ./chapter3.aux
+INPUT ./chapter3.aux
+INPUT chapter3.aux
 INPUT ./acronyms.aux
 INPUT ./acronyms.aux
 INPUT acronyms.aux
@@ -398,6 +401,19 @@ INPUT ../PICS/reference.png
 INPUT ../PICS/reference.png
 INPUT ../PICS/reference.png
 INPUT ../PICS/reference.png
+INPUT ./chapter3.tex
+INPUT ./chapter3.tex
+OUTPUT chapter3.aux
+INPUT ./chapter3.tex
+INPUT ./chapter3.tex
+INPUT chapter3.tex
+INPUT ../PICS/Relational Database Diagram - Component Kit (Community).pdf
+INPUT ../PICS/Relational Database Diagram - Component Kit (Community).pdf
+INPUT ../PICS/Relational Database Diagram - Component Kit (Community).pdf
+INPUT ../PICS/Relational Database Diagram - Component Kit (Community).pdf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8a.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/ekb8a.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8r.tfm
 INPUT ./acronyms.tex
 INPUT ./acronyms.tex
 OUTPUT acronyms.aux
@@ -421,6 +437,9 @@ INPUT cover.aux
 INPUT ./chapter1.aux
 INPUT ./chapter1.aux
 INPUT chapter1.aux
+INPUT ./chapter3.aux
+INPUT ./chapter3.aux
+INPUT chapter3.aux
 INPUT ./acronyms.aux
 INPUT ./acronyms.aux
 INPUT acronyms.aux

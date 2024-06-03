@@ -3,7 +3,12 @@
 \babel@toc {greek}{}\relax 
 \contentsline {chapter}{\numberline {1}Εισαγωγή}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Δημιουργία Κώδικα \textlatin {(Code Generation)} - Ολοκλήρωση Κώδικα \textlatin {(Code Completion)} }{3}{section.1.1}%
-\contentsline {chapter}{\numberline {{\greekscript \textAlpha \textnumeralsigngreek }}Ακρωνύμια και συντομογραφίες}{8}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {2}Μεθοδολογία}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Επιλογή Εφαρμογής}{8}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Τεχνολογική Στοίβα \textlatin {Technology Stack}}{11}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Συλλογή Δεδομένων}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Διαδικασία Συλλογής Δεδομένων}{12}{subsection.2.2.1}%
+\contentsline {chapter}{\numberline {{\greekscript \textAlpha \textnumeralsigngreek }}Ακρωνύμια και συντομογραφίες}{13}{appendix.Alph1}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
