@@ -21,50 +21,51 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Warning--to sort, need author, organization, or key in githubcopilot
 Warning--to sort, need author or key in trendforce2023ai
+Warning--to sort, need author, organization, or key in vscode
 Warning--to sort, need author, organization, or key in githubstudentpack
 Warning--empty author in trendforce2023ai
 Warning--empty journal in Rask2022
 
 Done.
-You've used 33 entries,
+You've used 48 entries,
             5264 wiz_defined-function locations,
-            1721 strings with 26280 characters,
-and the built_in function-call counts, 29598 in all, are:
-= -- 2674
-> -- 1527
-< -- 82
-+ -- 624
-- -- 438
-* -- 1751
-:= -- 4595
-add.period$ -- 71
-call.type$ -- 33
-change.case$ -- 222
-chr.to.int$ -- 178
-cite$ -- 74
-duplicate$ -- 1724
-empty$ -- 1879
-format.name$ -- 487
-if$ -- 6447
-int.to.chr$ -- 3
+            1813 strings with 30535 characters,
+and the built_in function-call counts, 48402 in all, are:
+= -- 4244
+> -- 2542
+< -- 173
++ -- 1055
+- -- 717
+* -- 2937
+:= -- 7156
+add.period$ -- 107
+call.type$ -- 48
+change.case$ -- 344
+chr.to.int$ -- 429
+cite$ -- 106
+duplicate$ -- 2767
+empty$ -- 3153
+format.name$ -- 789
+if$ -- 10693
+int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 333
-newline$ -- 145
-num.names$ -- 120
-pop$ -- 1176
+missing$ -- 531
+newline$ -- 192
+num.names$ -- 176
+pop$ -- 1895
 preamble$ -- 1
-purify$ -- 175
+purify$ -- 281
 quote$ -- 2
-skip$ -- 1977
+skip$ -- 3222
 stack$ -- 0
-substring$ -- 472
-swap$ -- 1074
-text.length$ -- 13
+substring$ -- 1088
+swap$ -- 1814
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 772
-warning$ -- 5
-while$ -- 118
+type$ -- 1142
+warning$ -- 6
+while$ -- 196
 width$ -- 0
-write$ -- 399
-(There were 5 warnings)
+write$ -- 562
+(There were 6 warnings)

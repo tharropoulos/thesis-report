@@ -367,11 +367,37 @@ OUTPUT chapter1.aux
 INPUT ./chapter1.tex
 INPUT ./chapter1.tex
 INPUT chapter1.tex
+INPUT ../PICS/copilotchat screen.png
+INPUT ../PICS/copilotchat screen.png
+INPUT ../PICS/copilotchat screen.png
+INPUT ../PICS/copilotchat screen.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8a.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/ekb8a.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ekb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/gkb7t.tfm
+INPUT ../PICS/LSPApproach.pdf
+INPUT ../PICS/LSPApproach.pdf
+INPUT ../PICS/LSPApproach.pdf
+INPUT ../PICS/LSPApproach.pdf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/gki7t.tfm
+INPUT ../PICS/codeComp.png
+INPUT ../PICS/codeComp.png
+INPUT ../PICS/codeComp.png
+INPUT ../PICS/codeComp.png
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/gkb7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/gkb7a.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/gki7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/gki7a.tfm
+INPUT ../PICS/copilot.png
+INPUT ../PICS/copilot.png
+INPUT ../PICS/copilot.png
+INPUT ../PICS/copilot.png
+INPUT ../PICS/reference.png
+INPUT ../PICS/reference.png
+INPUT ../PICS/reference.png
+INPUT ../PICS/reference.png
 INPUT ./acronyms.tex
 INPUT ./acronyms.tex
 OUTPUT acronyms.aux
