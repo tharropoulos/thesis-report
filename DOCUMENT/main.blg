@@ -25,52 +25,57 @@ Warning--to sort, need author or key in trendforce2023ai
 Warning--to sort, need author, organization, or key in vscode
 Warning--to sort, need author, organization, or key in githubstudentpack
 Warning--to sort, need author, editor, or key in swebok2004
+Warning--to sort, need author, organization, or key in fakerjs
+Warning--to sort, need author, organization, or key in lipsum
 Warning--empty author and editor in swebok2004
 Warning--missing publisher in swebok2004
 Warning--empty author in trendforce2023ai
 Warning--missing publisher in irena2008
+Warning--empty booktitle in jamilTesting
+Warning--empty booktitle in mughal2024advancingbddsoftwaretesting
 Warning--empty journal in Rask2022
+Warning--empty booktitle in bddstudy
 
 Done.
-You've used 68 entries,
+You've used 84 entries,
             5264 wiz_defined-function locations,
-            1901 strings with 32625 characters,
-and the built_in function-call counts, 60495 in all, are:
-= -- 5410
-> -- 2881
-< -- 192
-+ -- 1200
-- -- 813
-* -- 3574
-:= -- 9022
-add.period$ -- 146
-call.type$ -- 68
-change.case$ -- 426
-chr.to.int$ -- 476
-cite$ -- 151
-duplicate$ -- 3562
-empty$ -- 4138
-format.name$ -- 902
-if$ -- 13394
-int.to.chr$ -- 4
+            1989 strings with 35033 characters,
+and the built_in function-call counts, 72788 in all, are:
+= -- 6531
+> -- 3258
+< -- 254
++ -- 1363
+- -- 909
+* -- 4229
+:= -- 10879
+add.period$ -- 178
+call.type$ -- 84
+change.case$ -- 491
+chr.to.int$ -- 620
+cite$ -- 190
+duplicate$ -- 4355
+empty$ -- 5101
+format.name$ -- 1023
+if$ -- 16174
+int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 681
-newline$ -- 272
-num.names$ -- 216
-pop$ -- 2484
+missing$ -- 807
+newline$ -- 326
+num.names$ -- 272
+pop$ -- 2911
 preamble$ -- 1
-purify$ -- 342
+purify$ -- 390
 quote$ -- 2
-skip$ -- 4071
+skip$ -- 4961
 stack$ -- 0
-substring$ -- 1234
-swap$ -- 2216
-text.length$ -- 27
+substring$ -- 1580
+swap$ -- 2704
+text.length$ -- 37
 text.prefix$ -- 9
 top$ -- 6
-type$ -- 1556
-warning$ -- 10
-while$ -- 232
+type$ -- 1881
+warning$ -- 15
+while$ -- 294
 width$ -- 0
-write$ -- 776
-(There were 10 warnings)
+write$ -- 947
+(There were 15 warnings)

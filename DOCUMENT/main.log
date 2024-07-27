@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.27)  3 JUN 2024 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.27)  27 JUL 2024 19:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/fanis/code/thesis/DOCUMENT/main.tex
-(/home/fanis/code/thesis/DOCUMENT/main.tex
+**main.tex
+(./main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -584,7 +584,8 @@ LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen160
  (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count290
@@ -627,13 +628,9 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count296
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip54
-\bibsep=\skip55
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count297
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
@@ -648,6 +645,20 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen163
 \Gin@req@width=\dimen164
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count297
+\rotFPtop=\skip54
+\rotFPbot=\skip55
+\rot@float@box=\box53
+\rot@mess@toks=\toks26
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip56
+\bibsep=\skip57
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count298
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
@@ -664,69 +675,74 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen172
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count298
-\c@continuedfloat=\count299
+\c@caption@flags=\count299
+\c@continuedfloat=\count300
 Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count300
+\c@subfigure=\count301
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count301
+\c@subtable=\count302
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count302
-\float@exts=\toks26
-\float@box=\box53
-\@float@everytoks=\toks27
-\@floatcapt=\box54
+\c@float@type=\count303
+\float@exts=\toks27
+\float@box=\box54
+\@float@everytoks=\toks28
+\@floatcapt=\box55
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2024-05-06 v3.3.17 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count303
-\l__siunitx_number_exponent_fixed_int=\count304
-\l__siunitx_number_min_decimal_int=\count305
-\l__siunitx_number_min_integer_int=\count306
-\l__siunitx_number_round_precision_int=\count307
-\l__siunitx_number_lower_threshold_int=\count308
-\l__siunitx_number_upper_threshold_int=\count309
-\l__siunitx_number_group_first_int=\count310
-\l__siunitx_number_group_size_int=\count311
-\l__siunitx_number_group_minimum_int=\count312
+\l__siunitx_number_uncert_offset_int=\count304
+\l__siunitx_number_exponent_fixed_int=\count305
+\l__siunitx_number_min_decimal_int=\count306
+\l__siunitx_number_min_integer_int=\count307
+\l__siunitx_number_round_precision_int=\count308
+\l__siunitx_number_lower_threshold_int=\count309
+\l__siunitx_number_upper_threshold_int=\count310
+\l__siunitx_number_group_first_int=\count311
+\l__siunitx_number_group_size_int=\count312
+\l__siunitx_number_group_minimum_int=\count313
 \l__siunitx_angle_tmp_dim=\dimen173
-\l__siunitx_angle_marker_box=\box55
-\l__siunitx_angle_unit_box=\box56
-\l__siunitx_compound_count_int=\count313
+\l__siunitx_angle_marker_box=\box56
+\l__siunitx_angle_unit_box=\box57
+\l__siunitx_compound_count_int=\count314
  (/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
 )
-\l__siunitx_table_tmp_box=\box57
+\l__siunitx_table_tmp_box=\box58
 \l__siunitx_table_tmp_dim=\dimen174
 \l__siunitx_table_column_width_dim=\dimen175
-\l__siunitx_table_integer_box=\box58
-\l__siunitx_table_decimal_box=\box59
-\l__siunitx_table_uncert_box=\box60
-\l__siunitx_table_before_box=\box61
-\l__siunitx_table_after_box=\box62
+\l__siunitx_table_integer_box=\box59
+\l__siunitx_table_decimal_box=\box60
+\l__siunitx_table_uncert_box=\box61
+\l__siunitx_table_before_box=\box62
+\l__siunitx_table_after_box=\box63
 \l__siunitx_table_before_dim=\dimen176
 \l__siunitx_table_carry_dim=\dimen177
-\l__siunitx_unit_tmp_int=\count314
-\l__siunitx_unit_position_int=\count315
-\l__siunitx_unit_total_int=\count316
+\l__siunitx_unit_tmp_int=\count315
+\l__siunitx_unit_position_int=\count316
+\l__siunitx_unit_total_int=\count317
  (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen178
-\ar@mcellbox=\box63
+\ar@mcellbox=\box64
 \extrarowheight=\dimen179
-\NC@list=\toks28
-\extratabsurround=\skip56
-\backup@length=\skip57
-\ar@cellbox=\box64
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+\NC@list=\toks29
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box65
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+Package: dirtytalk 2010/11/21 A package making "quoting" easier
+\c@dirtytalk@qdepth=\count318
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/kmath.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/txfonts.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/kmath.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/txfonts.sty
 Package: txfonts 2008/01/22 v3.2.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -838,14 +854,14 @@ File: kerkis.sty 2000/02/25 v1.5 Package `kerkis.sty'
 LaTeX Info: Redefining \LaTeX on input line 156.
 LaTeX Info: Redefining \LaTeXe on input line 166.
 )
-LaTeX Font Info:    Trying to load font information for T1+mak on input line 23.
+LaTeX Font Info:    Trying to load font information for T1+mak on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/t1mak.fd)
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 23.
+(Font)              scaled to size 10.79993pt on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count317
-\l__pdf_internal_box=\box65
+\l__color_backend_stack_int=\count319
+\l__pdf_internal_box=\box66
 ) (./main.aux (./cover.aux
 LaTeX Font Info:    Trying to load font information for LGR+mak on input line 7.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/lgrmak.fd)
@@ -858,46 +874,46 @@ LaTeX Warning: Label `fig:codeComp' multiply defined.
 ) (./chapter3.aux) (./acronyms.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 23.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 23.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 25.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -933,20 +949,20 @@ LaTeX Font Info:    ... okay on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 25.
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
+\scratchcounter=\count320
 \scratchdimen=\dimen180
-\scratchbox=\box66
-\nofMPsegments=\count319
-\nofMParguments=\count320
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count321
+\scratchbox=\box67
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count323
 \MPscratchDim=\dimen181
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
-\everyMPtoPDFconversion=\toks30
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -956,11 +972,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package translations Info: no dictionary file `translations-basic-dictionary-greek.trsl' found. on input line 23.
+Package translations Info: no dictionary file `translations-basic-dictionary-greek.trsl' found. on input line 25.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 23.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 25.
 \openout2 = `cover.aux'.
 
  (./cover.tex
@@ -970,92 +986,92 @@ File: ../PICS/auth.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../PICS/auth.pdf  used on input line 5.
 (pdftex.def)             Requested size: 85.35826pt x 85.42244pt.
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 15.55188pt on input line 11.
+(Font)              scaled to size 15.55188pt on input line 10.
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 13.
+(Font)              scaled to size 12.9599pt on input line 11.
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 18.66588pt on input line 18.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 29.
+(Font)              scaled to size 18.66588pt on input line 17.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for OML+mak on input line 29.
+LaTeX Font Info:    Trying to load font information for OML+mak on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/omlmak.fd)
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 15.55188pt on input line 29.
+(Font)              scaled to size 15.55188pt on input line 27.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 10.79993pt on input line 29.
+(Font)              scaled to size 10.79993pt on input line 27.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 8.99994pt on input line 29.
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 29.
+(Font)              scaled to size 8.99994pt on input line 27.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 29.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 29.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 27.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 15.55188pt on input line 29.
+(Font)              scaled to size 15.55188pt on input line 27.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 29.
+(Font)              scaled to size 8.99994pt on input line 27.
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
-(Font)              scaled to size 15.55188pt on input line 30.
+(Font)              scaled to size 15.55188pt on input line 28.
  [1
 
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/gpkerkis.enc} <../PICS/auth.pdf>]
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 41.
+(Font)              scaled to size 10.79993pt on input line 37.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{abstract}
+l.50 \end{abstract}
                     [1{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/kerkisec.enc}]
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 46.
+(Font)              scaled to size 10.79993pt on input line 53.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \end{abstract}
+l.55 \end{abstract}
                     [1]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 \clearpage
+l.65 \clearpage
                 [1])
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 12.9599pt on input line 31.
+(Font)              scaled to size 12.9599pt on input line 33.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 6.29996pt on input line 31.
+(Font)              scaled to size 6.29996pt on input line 33.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 31.
+(Font)              scaled to size 12.9599pt on input line 33.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 31.
+(Font)              scaled to size 6.29996pt on input line 33.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 
+l.33 
       [1
 
 
 
 ]
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 22.39185pt on input line 32.
+(Font)              scaled to size 22.39185pt on input line 34.
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
-(Font)              scaled to size 22.39185pt on input line 32.
+(Font)              scaled to size 22.39185pt on input line 34.
  (./main.toc
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
 (Font)              scaled to size 7.19995pt on input line 5.
@@ -1073,66 +1089,66 @@ LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \include{chapter1}
-                        [1
+l.36   \include{chapter1}
+                          \include{chapter3} [1
 
 ]
 \openout2 = `chapter1.aux'.
 
  (./chapter1.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  1.
-<../PICS/copilotchat screen.png, id=73, 1927.2pt x 1084.05pt>
+<../PICS/copilotchat screen.png, id=79, 1927.2pt x 1084.05pt>
 File: ../PICS/copilotchat screen.png Graphic file (type png)
 <use ../PICS/copilotchat screen.png>
-Package pdftex.def Info: ../PICS/copilotchat screen.png  used on input line 14.
+Package pdftex.def Info: ../PICS/copilotchat screen.png  used on input line 47.
 (pdftex.def)             Requested size: 441.01773pt x 248.06912pt.
 [2
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+mak on input line 24.
-LaTeX Font Info:    No file TS1mak.fd. on input line 24.
+LaTeX Font Info:    Trying to load font information for TS1+mak on input line 67.
+LaTeX Font Info:    No file TS1mak.fd. on input line 67.
 
 
 LaTeX Font Warning: Font shape `TS1/mak/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textbullet' on input line 24.
+(Font)              for symbol `textbullet' on input line 67.
 
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
-(Font)              scaled to size 15.55188pt on input line 30.
+(Font)              scaled to size 15.55188pt on input line 82.
 
-Overfull \hbox (7.79353pt too wide) in paragraph at lines 30--30
+Overfull \hbox (7.79353pt too wide) in paragraph at lines 82--82
 []\LGR/mak/b/n/17.28 Dhmiourg�a K�di-ka \T1/mak/b/n/17.28 (Co-de Ge-ne-ra-tion) \LGR/mak/b/n/17.28 - O-lo-kl�rw-
  []
 
 [3{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../PICS/copilotchat screen.png (PNG copy)>]
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 35.
-<../PICS/LSPApproach.pdf, id=131, 298.23419pt x 91.3011pt>
+(Font)              scaled to size 12.9599pt on input line 96.
+<../PICS/LSPApproach.pdf, id=137, 298.23419pt x 91.3011pt>
 File: ../PICS/LSPApproach.pdf Graphic file (type pdf)
 <use ../PICS/LSPApproach.pdf>
-Package pdftex.def Info: ../PICS/LSPApproach.pdf  used on input line 40.
+Package pdftex.def Info: ../PICS/LSPApproach.pdf  used on input line 114.
 (pdftex.def)             Requested size: 298.23346pt x 91.30087pt.
 LaTeX Font Info:    Font shape `LGR/mak/m/it' will be
-(Font)              scaled to size 10.79993pt on input line 42.
-<../PICS/codeComp.png, id=134, 808.01875pt x 407.5225pt>
+(Font)              scaled to size 10.79993pt on input line 117.
+<../PICS/codeComp.png, id=140, 808.01875pt x 407.5225pt>
 File: ../PICS/codeComp.png Graphic file (type png)
 <use ../PICS/codeComp.png>
-Package pdftex.def Info: ../PICS/codeComp.png  used on input line 50.
+Package pdftex.def Info: ../PICS/codeComp.png  used on input line 127.
 (pdftex.def)             Requested size: 441.01773pt x 222.42804pt.
  [4 <../PICS/LSPApproach.pdf>]
-<../PICS/copilot.png, id=160, 1927.2pt x 1045.9075pt>
+<../PICS/copilot.png, id=166, 1927.2pt x 1045.9075pt>
 File: ../PICS/copilot.png Graphic file (type png)
 <use ../PICS/copilot.png>
-Package pdftex.def Info: ../PICS/copilot.png  used on input line 61.
+Package pdftex.def Info: ../PICS/copilot.png  used on input line 147.
 (pdftex.def)             Requested size: 441.01773pt x 239.34076pt.
  [5 <../PICS/codeComp.png (PNG copy)>]
-<../PICS/reference.png, id=184, 1927.2pt x 1084.05pt>
+<../PICS/reference.png, id=190, 1927.2pt x 1084.05pt>
 File: ../PICS/reference.png Graphic file (type png)
 <use ../PICS/reference.png>
-Package pdftex.def Info: ../PICS/reference.png  used on input line 74.
+Package pdftex.def Info: ../PICS/reference.png  used on input line 185.
 (pdftex.def)             Requested size: 441.01773pt x 248.06912pt.
- [6 <../PICS/copilot.png (PNG copy)>]) [7 <../PICS/reference.png (PNG copy)>]
+) [6 <../PICS/copilot.png (PNG copy)>] [7 <../PICS/reference.png (PNG copy)>]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -1145,20 +1161,199 @@ Package pdftex.def Info: ../PICS/reference.png  used on input line 74.
 ]
 
 pdfTeX warning: pdflatex (file ../PICS/Relational Database Diagram - Component Kit (Community).pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../PICS/Relational Database Diagram - Component Kit (Community).pdf, id=213, 3143.745pt x 1333.98375pt>
+<../PICS/Relational Database Diagram - Component Kit (Community).pdf, id=219, 3143.745pt x 1333.98375pt>
 File: ../PICS/Relational Database Diagram - Component Kit (Community).pdf Graphic file (type pdf)
 <use ../PICS/Relational Database Diagram - Component Kit (Community).pdf>
-Package pdftex.def Info: ../PICS/Relational Database Diagram - Component Kit (Community).pdf  used on input line 33.
+Package pdftex.def Info: ../PICS/Relational Database Diagram - Component Kit (Community).pdf  used on input line 68.
 (pdftex.def)             Requested size: 3143.73737pt x 1333.9805pt.
 [9]
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 39.
- [10 <../PICS/Relational Database Diagram - Component Kit (Community).pdf>] [11]) [12]
+(Font)              scaled to size 12.9599pt on input line 74.
+ [10 <../PICS/Relational Database Diagram - Component Kit (Community).pdf>]
+
+Package caption Warning: \label without proper reference on input line 71.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:RDD' on page 11 undefined on input line 135.
+
+[11]
+LaTeX Font Info:    Font shape `T1/mak/m/it' will be
+(Font)              scaled to size 10.79993pt on input line 200.
+<../PICS/ExpertPrompting.pdf, id=758, 579.16376pt x 306.14375pt>
+File: ../PICS/ExpertPrompting.pdf Graphic file (type pdf)
+<use ../PICS/ExpertPrompting.pdf>
+Package pdftex.def Info: ../PICS/ExpertPrompting.pdf  used on input line 206.
+(pdftex.def)             Requested size: 441.01773pt x 233.1201pt.
+ [12]
+<../PICS/persona.png, id=773, 1482.53876pt x 329.23pt>
+File: ../PICS/persona.png Graphic file (type png)
+<use ../PICS/persona.png>
+Package pdftex.def Info: ../PICS/persona.png  used on input line 215.
+(pdftex.def)             Requested size: 441.01773pt x 97.93584pt.
+<../PICS/copilot_code.png, id=774, 1184.425pt x 849.1725pt>
+File: ../PICS/copilot_code.png Graphic file (type png)
+<use ../PICS/copilot_code.png>
+Package pdftex.def Info: ../PICS/copilot_code.png  used on input line 236.
+(pdftex.def)             Requested size: 441.01773pt x 316.18433pt.
+ [13 <../PICS/ExpertPrompting.pdf> <../PICS/persona.png (PNG copy)>]
+<../PICS/revision.png, id=805, 1336.995pt x 1001.7425pt>
+File: ../PICS/revision.png Graphic file (type png)
+<use ../PICS/revision.png>
+Package pdftex.def Info: ../PICS/revision.png  used on input line 254.
+(pdftex.def)             Requested size: 441.01773pt x 330.42319pt.
+ [14 <../PICS/copilot_code.png>]
+<../PICS/rewrite.png, id=813, 933.4875pt x 315.1775pt>
+File: ../PICS/rewrite.png Graphic file (type png)
+<use ../PICS/rewrite.png>
+Package pdftex.def Info: ../PICS/rewrite.png  used on input line 263.
+(pdftex.def)             Requested size: 441.01773pt x 148.90291pt.
+<../PICS/manual_intervention.png, id=814, 1555.8125pt x 1306.8825pt>
+File: ../PICS/manual_intervention.png Graphic file (type png)
+<use ../PICS/manual_intervention.png>
+Package pdftex.def Info: ../PICS/manual_intervention.png  used on input line 279.
+(pdftex.def)             Requested size: 441.01773pt x 370.45131pt.
+ [15 <../PICS/revision.png> <../PICS/rewrite.png>]
+<../PICS/manual_rewrite.png, id=823, 1102.1175pt x 315.1775pt>
+File: ../PICS/manual_rewrite.png Graphic file (type png)
+<use ../PICS/manual_rewrite.png>
+Package pdftex.def Info: ../PICS/manual_rewrite.png  used on input line 299.
+(pdftex.def)             Requested size: 441.01773pt x 126.12166pt.
+ [16 <../PICS/manual_intervention.png>]
+<../PICS/total_metrics_by_subject.png, id=831, 722.7pt x 346.896pt>
+File: ../PICS/total_metrics_by_subject.png Graphic file (type png)
+<use ../PICS/total_metrics_by_subject.png>
+Package pdftex.def Info: ../PICS/total_metrics_by_subject.png  used on input line 367.
+(pdftex.def)             Requested size: 441.01773pt x 211.69093pt.
+ [17 <../PICS/manual_rewrite.png>]
+
+Package caption Warning: \label without proper reference on input line 368.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:totalMetrics' on page 18 undefined on input line 373.
+
+[18 <../PICS/total_metrics_by_subject.png>]
+./chapter3.tex:419: Undefined control sequence.
+l.419 δημιουργώντας ένα \enquote
+                                                {νήμα} \textlatin{(threa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../PICS/comment_select_clause.png, id=854, 1353.055pt x 1688.3075pt>
+File: ../PICS/comment_select_clause.png Graphic file (type png)
+<use ../PICS/comment_select_clause.png>
+Package pdftex.def Info: ../PICS/comment_select_clause.png  used on input line 429.
+(pdftex.def)             Requested size: 441.01773pt x 550.29065pt.
+[19]
+
+pdfTeX warning: pdflatex (file ../PICS/rdd-comment.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../PICS/rdd-comment.pdf, id=861, 1394.20876pt x 898.35625pt>
+File: ../PICS/rdd-comment.pdf Graphic file (type pdf)
+<use ../PICS/rdd-comment.pdf>
+Package pdftex.def Info: ../PICS/rdd-comment.pdf  used on input line 438.
+(pdftex.def)             Requested size: 441.01773pt x 284.16258pt.
+[20 <../PICS/comment_select_clause.png>]
+<../PICS/playlistschema.png, id=869, 1268.74pt x 696.6025pt>
+File: ../PICS/playlistschema.png Graphic file (type png)
+<use ../PICS/playlistschema.png>
+Package pdftex.def Info: ../PICS/playlistschema.png  used on input line 473.
+(pdftex.def)             Requested size: 441.01773pt x 242.1351pt.
+ [21 <../PICS/rdd-comment.pdf>]
+
+pdfTeX warning: pdflatex (file ../PICS/playlistrdd.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../PICS/playlistrdd.pdf, id=1160, 1653.17625pt x 1004.75375pt>
+File: ../PICS/playlistrdd.pdf Graphic file (type pdf)
+<use ../PICS/playlistrdd.pdf>
+Package pdftex.def Info: ../PICS/playlistrdd.pdf  used on input line 493.
+(pdftex.def)             Requested size: 441.01773pt x 268.03691pt.
+[22 <../PICS/playlistschema.png>]
+<../PICS/updateorder.png, id=1168, 1927.2pt x 2222.3025pt>
+File: ../PICS/updateorder.png Graphic file (type png)
+<use ../PICS/updateorder.png>
+Package pdftex.def Info: ../PICS/updateorder.png  used on input line 505.
+(pdftex.def)             Requested size: 441.01773pt x 508.5417pt.
+ [23 <../PICS/playlistrdd.pdf>]
+<../PICS/updateorder2.png, id=1503, 2079.77pt x 2527.4425pt>
+File: ../PICS/updateorder2.png Graphic file (type png)
+<use ../PICS/updateorder2.png>
+Package pdftex.def Info: ../PICS/updateorder2.png  used on input line 514.
+(pdftex.def)             Requested size: 441.01773pt x 535.9464pt.
+ [24 <../PICS/updateorder.png>]
+<../PICS/getbyidplaylist.png, id=1510, 1487.5575pt x 1917.1625pt>
+File: ../PICS/getbyidplaylist.png Graphic file (type png)
+<use ../PICS/getbyidplaylist.png>
+Package pdftex.def Info: ../PICS/getbyidplaylist.png  used on input line 531.
+(pdftex.def)             Requested size: 441.01773pt x 568.36638pt.
+ [25 <../PICS/updateorder2.png>]
+
+Package caption Warning: \label without proper reference on input line 535.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:getByIdPlaylist' on page 26 undefined on input line 538.
+
+
+
+pdfTeX warning: pdflatex (file ../PICS/userfollower.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../PICS/userfollower.pdf, id=1518, 954.11093pt x 579.88164pt>
+File: ../PICS/userfollower.pdf Graphic file (type pdf)
+<use ../PICS/userfollower.pdf>
+Package pdftex.def Info: ../PICS/userfollower.pdf  used on input line 547.
+(pdftex.def)             Requested size: 441.01773pt x 268.04062pt.
+[26 <../PICS/getbyidplaylist.png>]
+<../PICS/test_general.png, id=1530, 1134.2375pt x 353.32pt>
+File: ../PICS/test_general.png Graphic file (type png)
+<use ../PICS/test_general.png>
+Package pdftex.def Info: ../PICS/test_general.png  used on input line 587.
+(pdftex.def)             Requested size: 441.01773pt x 137.37912pt.
+ [27 <../PICS/userfollower.pdf>]
+<../PICS/test_terminal.png, id=1731, 1934.22626pt x 793.96625pt>
+File: ../PICS/test_terminal.png Graphic file (type png)
+<use ../PICS/test_terminal.png>
+Package pdftex.def Info: ../PICS/test_terminal.png  used on input line 597.
+(pdftex.def)             Requested size: 441.01773pt x 181.02133pt.
+ [28 <../PICS/test_general.png> <../PICS/test_terminal.png>]
+<../PICS/test_unit.png, id=1743, 1403.2425pt x 2451.1575pt>
+File: ../PICS/test_unit.png Graphic file (type png)
+<use ../PICS/test_unit.png>
+Package pdftex.def Info: ../PICS/test_unit.png  used on input line 644.
+(pdftex.def)             Requested size: 370.46573pt x 647.12314pt.
+ [29]
+<../PICS/test_integration.png, id=1749, 1286.8075pt x 1840.8775pt>
+File: ../PICS/test_integration.png Graphic file (type png)
+<use ../PICS/test_integration.png>
+Package pdftex.def Info: ../PICS/test_integration.png  used on input line 655.
+(pdftex.def)             Requested size: 452.35289pt x 647.12314pt.
+
+Overfull \hbox (11.33516pt too wide) in paragraph at lines 653--658
+ [] 
+ []
+
+[30 <../PICS/test_unit.png>]
+
+Package caption Warning: \label without proper reference on input line 645.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:TestUnit' on page 31 undefined on input line 662.
+
+
+Package caption Warning: \label without proper reference on input line 656.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:TestIntegration' on page 31 undefined on input line 663.
+
+[31 <../PICS/test_integration.png>]) [32]
 \openout2 = `acronyms.aux'.
 
  (./acronyms.tex
 \textPi \textalpha \textrho \acctonos \textalpha \textrho \texttau \texteta \textmu \textalpha  {\greekscript \textAlpha \textnumeralsigngreek }.
-) [13
+) [33
 
 
 
@@ -1168,23 +1363,31 @@ LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 (Font)              scaled to size 22.39185pt on input line 2.
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 (Font)              scaled to size 22.39185pt on input line 2.
-LaTeX Font Info:    Font shape `T1/mak/m/it' will be
-(Font)              scaled to size 10.79993pt on input line 35.
- [14
+ [34
 
 
 
-] [15] [16] [17]
-Overfull \hbox (74.13315pt too wide) in paragraph at lines 255--257
+] [35] [36] [37]
+Underfull \hbox (badness 1173) in paragraph at lines 234--235
+[]\T1/mak/m/n/12 Prisma, ``Many-to-many re-la-tions,'' []$https : / / www . prisma . io / docs / concepts /
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 234--235
+\T1/mak/m/n/12 components / prisma-[]schema / relations / many-[]to-[]many-[]relations$[], 2022, re-
+ []
+
+[38]
+Overfull \hbox (74.13315pt too wide) in paragraph at lines 309--311
 \T1/mak/m/n/12 2023-[]12-[]29-[]github-[]copilot-[]chat-[]now-[]generally-[]available-[]for-[]organizations-[]and-[]individuals/$[] 
  []
 
 
-Overfull \hbox (134.02837pt too wide) in paragraph at lines 260--262
+Overfull \hbox (134.02837pt too wide) in paragraph at lines 314--316
 \T1/mak/m/n/12 2023-[]07-[]28-[]smarter-[]more-[]e^^^cient-[]coding-[]github-[]copilot-[]goes-[]beyond-[]codex-[]with-[]improved-[]ai-[]model/$[] 
  []
 
-) [18] (./main.aux (./cover.aux) (./chapter1.aux) (./chapter3.aux) (./acronyms.aux))
+) [39] (./main.aux (./cover.aux) (./chapter1.aux) (./chapter3.aux) (./acronyms.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
@@ -1194,22 +1397,28 @@ L3 programming layer <2024-05-08>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20727 strings out of 473993
- 390692 string characters out of 5741040
+ 21219 strings out of 473993
+ 401638 string characters out of 5741040
  1939904 words of memory out of 5000000
- 42804 multiletter control sequences out of 15000+600000
+ 43224 multiletter control sequences out of 15000+600000
  602848 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,8n,79p,1884b,1136s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,8n,79p,1131b,1174s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.2.2.3} has been referenced but does not exist, replaced by a fixed one
+
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (23 pages, 1910992 bytes).
+Output written on main.pdf (44 pages, 4829914 bytes).
 PDF statistics:
- 898 PDF objects out of 1000 (max. 8388607)
- 603 compressed objects within 7 object streams
- 107 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1948 PDF objects out of 2073 (max. 8388607)
+ 1180 compressed objects within 12 object streams
+ 170 named destinations out of 1000 (max. 500000)
+ 224 words of extra memory for PDF output out of 10000 (max. 10000000)
 

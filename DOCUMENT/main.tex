@@ -1,4 +1,5 @@
 \documentclass[a4paper,12pt]{report}
+
 \usepackage[left=3cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -7,40 +8,37 @@
 \usepackage[parfill]{parskip}
 \usepackage[unicode]{hyperref}
 \usepackage{bookmark}
+\usepackage{rotating}
 \usepackage[numbers]{natbib}
 \usepackage{graphicx}
 \usepackage{subcaption}
 \usepackage{float}
 \usepackage{siunitx}
+\usepackage{dirtytalk}
 \usepackage{color}
 \usepackage{kmath,kerkis}
 
 \graphicspath{{../PICS/}}
 
-\def\tl{\textlatin}
-\def\tg{\textgreek}
+\def\tl{\textlatin} \def\tg{\textgreek}
 
 \begin{document}
 
-\include{cover}
+  \include{cover}
 
-\title{Τίτλος διπλωματικής}
-\author{Θεοφάνης Θαρρόπουλος\\
-\href{mailto:theofact@ece.auth.gr}{\tl{theofact@ece.auth.gr}}}
-\maketitle
+  \title{Τίτλος διπλωματικής}
+  \author{Θεοφάνης Θαρρόπουλος\\
+    \href{mailto:theofact@ece.auth.gr}{\tl{theofact@ece.auth.gr}}}
+  \maketitle
 
-\tableofcontents
-\thispagestyle{empty}
+  \tableofcontents \thispagestyle{empty}
 
-\include{chapter1}
-\include{chapter3}
+  \include{chapter1} \include{chapter3}
 
-\appendix
-\include{acronyms}
+  \appendix \include{acronyms}
 
-\selectlanguage{english}
+  \selectlanguage{english}
 
-\bibliographystyle{IEEEtranSN}
-\bibliography{IEEEabrv,references}
+  \bibliographystyle{IEEEtranSN} \bibliography{IEEEabrv,references}
 
 \end{document}
