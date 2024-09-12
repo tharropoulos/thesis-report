@@ -1,15 +1,13 @@
 \chapter{Μεθοδολογία}
 \label{ch:chapter3}
 
-Στο κεφαλαίο αυτό παρουσιάζεται η μεθδολογία που ακολουθήθηκε κατά την
-διάρκεια της σύλλογης των δεδομένων των πειραμάτων με το
+Στο παρόν κεφαλαίο αυτό παρουσιάζεται η μεθοδολογία που ακολουθήθηκε
+κατά την διάρκεια της σύλλογης των δεδομένων των πειραμάτων με το
 \textlatin{GitHub Copilot} και με το \textlatin{GitHub Copilot Chat}.
 Αρχικά, η επιλογή της εφαρμογής πάνω στην οποία το \textlatin{GitHub
   Copilot} αξιολογήθηκε, περιγράφεται παρακάτω.
 
 \section{Επιλογή Εφαρμογής}
-
-\label{sec:app_selection}
 
 Για την επιλογή της κατάλληλης εφαρμογής, λήφθηκαν οι παρακάτω
 παράμετροι υπ' όψιν:
@@ -26,7 +24,7 @@
   \textlatin{\textbf{Web Development}}.
 \item
   \textbf{Γλώσσα της εφαρμογής και Τεχνολογική Στοίβα
-    \textlatin{Technology Stack}:} Η επιλογή της Τεχνολογικής Στοίβας
+    (\textlatin{Technology Stack}):} Η επιλογή της Τεχνολογικής Στοίβας
   πρέπει να γίνει με βάση μοντέρνες τεχνολογίες και με ευρεία χρήση,
   προκειμένου το μοντέλο να έχει την περισσότερη εμπειρία και τις
   καλύτερες αποδόσεις, αλλά και να γίνεται μια αξιολόγηση με πραγματικά
@@ -84,32 +82,75 @@
   της γλώσσας προγραμματισμού \textlatin{Typescript} \cite{typescript},
   ενός συντακτικού υπερσυνόλου της γλώσσας \textlatin{JavaScript}
   \cite{javascript}, μια από τις πιο διαδομένες γλώσσες προγραμματισμού
-  στον κόσμο. \cite{tiobe, languagechart}
-\item
-  \textbf{Εμπρόσθια Ανάπτυξη (\textlatin{Frontend Development}):} Η
-  εμπρόσθια ανάπτυξη της εφαρμογής έγινε με την χρήση της
-  \textlatin{React} \cite{react}, μιας βιβλιοθήκης της
-  \textlatin{JavaScript} για την ανάπτυξη διεπαφών χρήστη. Συγκεκριμένα,
-  χρησιμοποιήθηκε το πλαίσιο εργασίας \textlatin{Next.js} \cite{nextjs},
-  το οποίο παρέχει δυνατότητες όπως την προ-φόρτωση των σελίδων, την
-  δυνατότητα δημιουργίας στατικών ιστοσελίδων, και την δυνατότητα
-  δημιουργίας δυναμικών ιστοσελίδων, αποτελώντας ένα από τα πιο ευρέως
-  χρησιμοποιημένα πλαίσια εργασίας.
+  στον κόσμο. \cite{tiobe, languagechart} Συγκεκριμένα, το 2024 η
+  \textlatin{Javascript} ήταν η πρώτη στην λίστα της επισκόπησης του
+  \textlatin{Stack Overflow}, μετά από 60.171 ψήφους. \cite{so2024} Την
+  πρώτη θέση επίσης έλαβε το 2023 και το 2022. \cite{so2022,so2023}
+
+  Η γλώσσα \textlatin{Javascript} επίσης, είναι η γλώσσα προγραμματισμού
+  που εκτελείται στις ιστοσελίδες του διαδικτύου, μέσω της μηχανής
+  \textlatin{V8} της \textlatin{Google} \cite{v8} για τους περιηγητές
+  διαδικτύου που βασίζονται στην μηχανή περιηγητή ανοιχτού κώδικα
+  \textlatin{Chromium} \cite{chromium}, της μηχανής
+  \textlatin{SpiderMonkey} της \textlatin{Mozilla} \cite{spidermonkey}
+  για τους περιηγητές που χρησιμοποιούν τη μηχανή περιηγητή ανοιχτού
+  κώδικα \textlatin{Gecko} \cite{gecko}, και της μηχανής
+  \textlatin{JavaScriptCore} της \textlatin{Apple} \cite{javascriptcore}
+  για τους περιηγητές που χρησιμοποιούν τη μηχανή περιηγητή
+  \textlatin{WebKit} \cite{webkit}, δίνοντάς της τον τίτλο της γλώσσας
+  του διαδικτύου.
 \item
   \textbf{Πίσω Ανάπτυξη (\textlatin{Backend Development}):} Η πίσω
   ανάπτυξη της εφαρμογής έγινε με την χρήση της βιβλιοθήκης
   \textlatin{tRPC} \cite{trpc}, μιας βιβλιοθήκης που παρέχει την
   δυνατότητα δημιουργίας \textlatin{API} με την χρήση της γλώσσας
-  \textlatin{Typescript}. Η βάση δεδομένων της εφαρμογής αποθηκεύτηκε σε
-  μια βάση δεδομένων \textlatin{MySQL} \cite{mysql}, μιας από τις πιο
-  διαδεδομένες σχεσιακές βάσεις δεδομένων. Tο εργαλείο της
-  Αντικειμενο-σχεσιακής Απεικόνισης \textlatin{(ORM)} που
-  χρησιμοποιήθηκε ήταν το \textlatin{Prisma} \cite{prisma}, το οποίο
-  παρέχει την δυνατότητα δημιουργίας απλών και ασφαλών ερωτημάτων
-  \textlatin{(queries)} στην βάση δεδομένων. To σύστημα διαχείρισης της
-  ταυτότητας των χρηστών \textlatin{(authentication)} και των
-  δικαιωμάτων τους \textlatin{(authorization)} υλοποιήθηκε με την χρήση
-  της βιβλιοθήκης \textlatin{NextAuth.js} \cite{nextauth}.
+  \textlatin{Typescript} και του περιβάλλοντος εκτέλεσης
+  (\textlatin{runtime}) \textlatin{Node.js} \cite{node}. Το
+  \textlatin{Node.js} βρισκόταν στην πρώτη θέση για πλαίσιο διαδικτύου
+  (\textlatin{web framework}) στην επισκόπηση του \textlatin{Stack
+    Overflow} το 2024 \cite{so2024}.
+  \begin{figure}[H]
+    \begin{center}
+      \includegraphics[height=\dimexpr
+        \textheight-15\baselineskip-\parskip-.2em- \abovecaptionskip-\belowcaptionskip\relax]{stack-overflow-tech.png}
+      \caption{Δημοφιλέστερα Πλαίσια Διαδικτύου και τεχνολογίες του
+        2024, \textit{Δανεισμένο από \cite{so2024}}}
+    \end{center}
+    \label{fig:SO2024FRAMEWORKS}
+  \end{figure}
+
+  Τα δεδομένα της εφαρμογής αποθηκεύτηκαν σε μια βάση δεδομένων
+  \textlatin{MySQL} \cite{mysql}, μια από τις πιο διαδεδομένες σχεσιακές
+  βάσεις δεδομένων \cite{so2024}. Tο εργαλείο της Αντικειμενο-σχεσιακής
+  Απεικόνισης \textlatin{(ORM)} που χρησιμοποιήθηκε ήταν το
+  \textlatin{Prisma} \cite{prisma}, το οποίο παρέχει την δυνατότητα
+  δημιουργίας απλών και ασφαλών ερωτημάτων \textlatin{(queries)} στην
+  βάση δεδομένων. To σύστημα διαχείρισης της ταυτότητας των χρηστών
+  \textlatin{(authentication)} και των δικαιωμάτων τους
+  \textlatin{(authorization)} υλοποιήθηκε με την χρήση της βιβλιοθήκης
+  \textlatin{NextAuth.js} \cite{nextauth}.
+  \begin{figure}[H]
+    \begin{center}
+      \includegraphics[height=\dimexpr
+        \textheight-15\baselineskip-\parskip-.2em-
+        \abovecaptionskip-\belowcaptionskip\relax]{stack-overflow-db.png}
+      \caption{Δημοφιλέστερες Βάσεις Δεδομένων του 2024,
+        \textit{Δανεισμένο από \cite{so2024}}}
+    \end{center}
+    \label{fig:SO2024DB}
+  \end{figure}
+\item
+  \textbf{Εμπρόσθια Ανάπτυξη (\textlatin{Frontend Development}):} Η
+  εμπρόσθια ανάπτυξη της εφαρμογής έγινε με την χρήση της
+  \textlatin{React} \cite{react}, μιας βιβλιοθήκης της
+  \textlatin{JavaScript} για την ανάπτυξη διεπαφών χρήστη, την πλέον πιο
+  ευρέως γνωστή βιβλιοθήκη \textlatin{Javascript} για ανάπτυξη διεπαφών
+  χρήστη \cite{so2024}. Συγκεκριμένα, χρησιμοποιήθηκε το πλαίσιο
+  εργασίας \textlatin{Next.js} \cite{nextjs}, το οποίο παρέχει
+  δυνατότητες όπως την προ-φόρτωση των σελίδων, την δυνατότητα
+  δημιουργίας στατικών ιστοσελίδων, και την δυνατότητα δημιουργίας
+  δυναμικών ιστοσελίδων, αποτελώντας ένα από τα πιο ευρέως
+  χρησιμοποιημένα πλαίσια εργασίας.
 \item
   \textbf{Έλεγχος Λογισμικού (\textlatin{Software Testing}):} Για τον
   έλεγχο της λειτουργίας του παραγόμενου κώδικα, χρησιμοποιήθηκε το
@@ -120,8 +161,43 @@
 \end{itemize}
 
 Η παραπάνω στοίβα ονομάστηκε \textlatin{T3 stack}, έχοντας πλέον
-δημιουργήσει μια μεγάλη κοινώτητα στον κλάδο της ανάπυτξης ιστότοπων και
+δημιουργήσει μια μεγάλη κοινότητα στον κλάδο της ανάπυτξης ιστότοπων και
 της ανάπτυξης λογισμικού. \cite{t3repo}
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[height=\dimexpr
+      \textheight-12\baselineskip-\parskip-.2em- \abovecaptionskip-\belowcaptionskip\relax]{stack-overflow-2024-languages.png}
+    \caption{Δημοφιλέστερες Γλώσσες Προγραμματισμού του 2024,
+      \textit{Δανεισμένο από \cite{so2024}}}
+  \end{center}
+  \label{fig:SO2024LANGS}
+\end{figure}
+
+\section{Επιλογή Περιβάλλοντος Ανάπτυξης }
+
+Η επιλογή του περιβάλλοντος ανάπτυξης έγινε με βάση την ευκολία στην
+ενσωμάτωση του \textlatin{GitHub Copilot} και την ευρεία χρήση του
+περιβάλλοντος ανάπτυξης. Η επιλογή έγινε στο \textlatin{Visual Studio
+  Code} \cite{vscode}, το πιο δημοφιλές, σύμφωνα με την επισκόπηση του
+\textlatin{Stack Overflow} του 2024, περιβάλλον ανάπτυξης.
+\cite{so2024}. To \textlatin{Visual Studio Code} είναι ένα περιβάλλον
+ανάπτυξης ανεπτυγμένο από την \textlatin{Microsoft} το 2015,
+χρησιμοποιώντας την ανοιχτού κώδικα πλατφόρμα \textlatin{Code - OSS}. To
+\textlatin{GitHub Copilot Chat} ήταν για πρώτη φορά διαθέσιμο στο
+\textlatin{Visual Studio Code} μέσω της ομώνυμης επέκτασης.
+\cite{copilotchatrepo}
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[height=\dimexpr
+      \textheight-15\baselineskip-\parskip-.2em-
+      \abovecaptionskip-\belowcaptionskip\relax]{stack-overflow-ide.png}
+    \caption{Δημοφιλέστερα περιβάλλοντα ανάπτυξης (\textlatin{IDE}) του
+      2024, \textit{Δανεισμένο από \cite{so2024}}}
+  \end{center}
+  \label{fig:SO2024IDES}
+\end{figure}
 
 \section{Συλλογή Δεδομένων}
 
@@ -204,19 +280,19 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{ExpertPrompting.pdf}
-    \label{fig:ExpertPrompting}
     \caption{Η μεθοδολογία δημιουργίας περσόνας για το μοντέλο,
       \textit{Δανεισμένο από \cite{xu2023expertprompting}} }
   \end{center}
+  \label{fig:ExpertPrompting}
 \end{figure}
 
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{persona.png}
-    \label{fig:persona}
     \caption{Η προτροπή που δόθηκε στο μοντέλο για την δημιουργία της
       περσόνας}
   \end{center}
+  \label{fig:persona}
 \end{figure}
 
 Η επιλογή να ζητηθεί από το μοντέλο να υποδεικνύει τον κώδικα που
@@ -234,10 +310,10 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{copilot_code.png}
-    \label{fig:copilotCode}
     \caption{Παράδειγμα κώδικα που παρήχθη από το μοντέλο, με
       ορθογραφικό λάθος}
   \end{center}
+  \label{fig:copilotCode}
 \end{figure}
 
 Η διόρθωση λαθών από τον προγραμματιστή αποτέλεσε έσχατη λύση, καθώς
@@ -252,19 +328,19 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{revision.png}
-    \label{fig:revision}
     \caption{Παράδειγμα διόρθωσης λάθους από το μοντέλο μεγάλης έκτασης,
       μετά την προτροπή του προγραμματιστή}
   \end{center}
+  \label{fig:revision}
 \end{figure}
 
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{rewrite.png}
-    \label{fig:rewrite}
     \caption{Παράδειγμα διόρθωσης λάθους από το μοντέλο μικρής έκτασης,
       μετά την προτροπή του προγραμματιστή}
   \end{center}
+  \label{fig:rewrite}
 \end{figure}
 
 Κατά την διόρθωση λαθών, ο προγραμματιστής άφηνε σχόλια, εξηγώντας το
@@ -277,10 +353,10 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{manual_intervention.png}
-    \label{fig:nonCopilotCode}
     \caption{Παράδειγμα διόρθωσης λάθους από τον προγραμματιστή, μετά
       την αδυναμία του μοντέλου να διορθώσει το λάθος}
   \end{center}
+  \label{fig:nonCopilotCode}
 \end{figure}
 
 Λάθη που διορθώθηκαν μέσω μιας γραμμής (όπως ονομασίες μεταβλητών ή
@@ -297,11 +373,11 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{manual_rewrite.png}
-    \label{fig:manualRewrite}
     \caption{Παράδειγμα διόρθωσης λάθους μικρής έκτασης από τον
       προγραμματιστή, μετά την αδυναμία του μοντέλου να διορθώσει το
       λάθος}
   \end{center}
+  \label{fig:manualRewrite}
 \end{figure}
 
 \subsection{Ανάλυση Δεδομένων}
@@ -365,9 +441,9 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{total_metrics_by_subject.png}
-    \label{fig:totalMetrics}
     \caption{Συνολικά μετρικά ανά τύπο}
   \end{center}
+  \label{fig:totalMetrics}
 \end{figure}
 
 ΄Οπως φαίνεται από το διάγραμμα \ref{fig:totalMetrics}, οι περισσότεροες
@@ -427,18 +503,18 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{comment_select_clause.png}
-    \label{fig:commentSelectClause}
     \caption{Παράδειγμα μεθόδου που αφορά τα σχόλια, με πολλαπλές
       σχέσεις Μ:Ν}
   \end{center}
+  \label{fig:commentSelectClause}
 \end{figure}
 
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{rdd-comment.pdf}
-    \label{fig:commentRdd}
     \caption{Σχεσιακό διάγραμμα της οντότητας του σχολίου}
   \end{center}
+  \label{fig:commentRdd}
 \end{figure}
 
 Στη περίπτωση της οντότητας της λίστας (\textlatin{Playlist}), η λογική
@@ -471,10 +547,10 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{playlistschema.png}
-    \label{fig:playlistSchema}
     \caption{Τύπος δεδομένων για την δημιουργία της οντότητας της
       λίστας}
   \end{center}
+  \label{fig:playlistSchema}
 \end{figure}
 
 Κάθε λίστα έχει μια σχέση 1:Μ με τον χρήστη, μια σχέση 1:Μ με τις
@@ -491,9 +567,9 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{playlistrdd.pdf}
-    \label{fig:playlistRdd}
     \caption{Σχεσιακό διάγραμμα της οντότητας της λίστας}
   \end{center}
+  \label{fig:playlistRdd}
 \end{figure}
 
 Το μοντέλο του \textlatin{GitHub Copilot} αδυνατούσε να ακολουθήσει την
@@ -503,19 +579,19 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{updateorder.png}
-    \label{fig:updateOrder}
     \caption{Παράδειγμα μεθόδου που αφορά την αλλαγή της σειράς των
       βιντεοπαιχνιδιών στη λίστα, \textit{Μέρος 1}}
   \end{center}
+  \label{fig:updateOrder}
 \end{figure}
 
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{updateorder2.png}
-    \label{fig:updateOrder2}
     \caption{Παράδειγμα μεθόδου που αφορά την αλλαγή της σειράς των
       βιντεοπαιχνιδιών στη λίστα, \textit{Μέρος 2}}
   \end{center}
+  \label{fig:updateOrder2}
 \end{figure}
 
 Πέρα από τη σειρά των βιντεοπαιχνιδιών, σημαντική ήταν και η εξασφάλιση
@@ -585,21 +661,21 @@
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{test_general.png}
-    \label{fig:TestGeneral}
     \caption{Παράδειγμα μεθόδου που αφορά την δημιουργία ενός ελέγχου,
       με χρήση των μεθόδων \textit{\textlatin{describe}} και
       \textit{\textlatin{it}}}
   \end{center}
+  \label{fig:TestGeneral}
 \end{figure}
 
 \begin{figure}[H]
   \begin{center}
     \includegraphics[width=\textwidth]{test_terminal.png}
-    \label{fig:TestGeneralTerminal}
     \caption{Παράδειγμα αποτελέσματος ελέγχου σε διεπαφή τερματικού, με
       χρήση των μεθόδων \textit{\textlatin{describe}} και
       \textit{\textlatin{it}}, μέσω του εργαλείου \textlatin{Jest}}
   \end{center}
+  \label{fig:TestGeneralTerminal}
 \end{figure}
 
 Επειδή το μοντέλο δουλεύει με \textlatin{next token prediction}, και
@@ -642,10 +718,10 @@
     \includegraphics[height=\dimexpr
       \textheight-3\baselineskip-\parskip-.2em-
       \abovecaptionskip-\belowcaptionskip\relax]{test_unit.png}
-    \label{fig:TestUnit}
     \caption{Παράδειγμα ελέγχου μονάδας για την επιτυχημένη δημιουργία
       παιχνιδιού}
   \end{center}
+  \label{fig:TestUnit}
 \end{figure}
 
 \begin{figure}[H]
@@ -653,10 +729,10 @@
     \includegraphics[height=\dimexpr
       \textheight-3\baselineskip-\parskip-.2em-
       \abovecaptionskip-\belowcaptionskip\relax]{test_integration.png}
-    \label{fig:TestIntegration}
     \caption{Παράδειγμα ελέγχου συμαβότητας για την επιτυχημένη
       δημιουργία παιχνιδιού}
   \end{center}
+  \label{fig:TestIntegration}
 \end{figure}
 
 Εκ πρώτης όψεως, ο κώδικας στο Σχήμα \ref{fig:TestUnit} φαίνεται να
@@ -676,7 +752,148 @@
 
 Κατά την αλληλεπίδραση με το μοντέλο, για κάθε απάντηση που δόθηκε
 έπειτα προτροπής, πραγματοποιήθηκε μια αξιολόγηση σε μια κλίμακα μεταξύ
-μείον δύο (-2) και δύο (2).
+μείον δύο (-2) και δύο (2), με το μείον δύο να αντιστοιχεί σε μια
+απάντηση η οποία κρίθηκε ως εντελώς λάθος, το μείον ένα (-1) σε μια
+απάντηση η οποία κρίθηκε ως μερικώς λάθος, το μηδέν (0) σε μια απάντηση
+η οποία κρίθηκε ως αδιάφορη προς την ορθότητά της, το ένα (1) σε μια
+απάντηση η οποία κρίθηκε ως σωστή και το δύο (2) σε μια απάντηση η οποία
+κρίθηκε ως εντελώς σωστή.
+
+Η επιλογή μιας κλίμακας η οποία εκτείνεται από \say{πολύ κακό} έως
+\say{πολύ καλό}, αποσκοπεί στην καλύτερη αναπαράσταση της ποικιλίας και
+της πολυπλοκότητας της αξιολόγησης μιας απάντησης και στην δημιουργία
+ενός συνόλου ασαφούς λογικής (\textlatin{fuzzy logic}) για την
+αξιολόγηση των απαντήσεων
+\cite{ZADEH1965338,klir1995fuzzy,ross2010fuzzy}.
+
+Η αξιολόγηση των απαντήσεων αποσκοπεί στην εξάσκηση ενός μοντέλου
+μηχανικής μάθησης, προκειμένου να βελτιωθεί η απόδοσή του στην παραγωγή
+απαντήσεων, με βάση την ορθότερη προτροπή, του οποίου η ανάλυση γίνεται
+στο επόμενο κεφάλαιο.
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.85\textwidth]{rating_perc.png}
+    \caption{Ποσοστό αξιολόγησης απαντήσεων}
+  \end{center}
+  \label{fig:RatingPerc}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.85\textwidth]{rating_times.png}
+    \caption{Αριθμός αξιολόγησης απαντήσεων}
+  \end{center}
+  \label{fig:RatingTimes}
+\end{figure}
+
+Από τα σχήματα \ref{fig:RatingPerc} και \ref{fig:RatingTimes},
+παρατηρείται ότι η πλειοψηφία των απαντήσεων αξιολογήθηκαν θετικά, με το
+το πενήντα πέντε τοις εκατό (55.3435\%), με σύνολο 290 θετικών
+αξιολογήσεων, έναντι του σαράντα τρία τοις εκατό (43.5115\%), με με
+σύνολο 228 αρνητικών αξιολογήσεων. Ο συνηθέστερος βαθμός αξιολόγησης
+ήταν το δύο (2), με σύνολο διακοσίων εικοσιεπτά (227) αξιολογήσεων, ενώ
+ο σπανιότερος βαθμός αξιολόγησης ήταν το μηδέν (0), με σύνολο έξι (6)
+αξιολογήσεων.
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.7\textwidth]{avg_sequential.png}
+    \caption{Μέσος όρος συνεχόμενης αξιολόγησης απαντήσεων}
+  \end{center}
+  \label{fig:AverageSequential}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.7\textwidth]{max_sequential.png}
+    \caption{Μέγιστη συνεχόμενη αξιολόγηση απαντήσεων}
+  \end{center}
+  \label{fig:MaxSequential}
+\end{figure}
+
+Το μοντέλο φαίνεται να έχει την τάση να παράγει απαντήσεις οι οποίες
+βασίζονται πολύ στην αρχική παρότρυνση από την προτροπή του
+προγραμματιστή. Αυτό αποδεικνύεται και από το σχήμα
+\ref{fig:MaxSequential}, όπου παρατηρείται ότι ο μέγιστος αριθμός
+συνεχόμενων αρνητικών αξιολογήσεων είναι δεκατέσσερεις (14), ενώ ο
+μέγιστος αριθμός συνεχόμενων θετικών αξιολογήσεων είναι δεκατρείς (16).
+Στην περίπτωση των συνεχόμενων θετικών αξιολογήσεων, οι προτροπές
+αφορούσαν 3 διαφορετικά θέματα, τους ελέγχους της λειτουργίας των
+κριτικών, την ανάπτυξη της λειτουργίας των λιστών, καθώς και τους
+ελέγχους της. Στην περίπτωση των συνεχόμενων αρνητικών αξιολογήσεων, οι
+προτροπές αφορούσαν μόνο τους ελέγχους μιας λειτουργίας.
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.7\textwidth]{consecutive_streaks.png}
+    \caption{Αριθμός εμφανίσεων συνεχόμενων αξιολογήσεων άνω των τριών
+      (3)}
+  \end{center}
+  \label{fig:ConsecutiveStreaks}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.7\textwidth]{consecutive_streaks_more_than_10.png}
+    \caption{Αριθμός εμφανίσεων συνεχόμενων αξιολογήσεων άνω των δέκα
+      (10)}
+  \end{center}
+  \label{fig:ConsecutiveStreaks10}
+\end{figure}
+
+Για την περίπτωση των άνω των δέκα (10) συνεχόμενων θετικών
+αξιολογήσεων, κατά μέσο όρο, αφορούσαν δύο (2) διαφορετικά θέματα, ενώ
+ήταν διπλάσιες οι περιπτώσεις εμφάνισης των συνεχόμενων θετικών έναντι
+των αρνητικών αξιολογήσεων (\ref{fig:ConsecutiveStreaks10}), που
+αφορούσαν ένα θέμα. Φαίνεται πως αν η πρώτη προτροπή από τον
+προγραμματιστή δεν οδηγήσει ορθά το μοντέλο, τότε δύσκολα βρίσκει τη
+λύση με τις επόμενες προτροπές, καθώς διατηρείται η αρχική κατεύθυνση
+που έλαβε.
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.85\textwidth]{subject_query_1.png}
+    \caption{Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit{μέρος
+        1}}
+  \end{center}
+  \label{fig:SubjectQuery1}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.85\textwidth]{subject_query_2.png}
+    \caption{Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit{μέρος
+        2}}
+  \end{center}
+  \label{fig:SubjectQuery2}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+    \includegraphics[width=0.85\textwidth]{subject_query_3.png}
+    \caption{Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit{μέρος
+        3}}
+  \end{center}
+  \label{fig:SubjectQuery3}
+\end{figure}
+
+Από τα σχήματα \ref{fig:SubjectQuery1}, \ref{fig:SubjectQuery2} και
+\ref{fig:SubjectQuery3}, παρατηρείται ότι δεν υπάρχει κάποια
+συγκεκριμένη τάση στην αξιολόγηση των απαντήσεων ανά θέμα, με τα
+περίσσοτερα των θεμάτων να έχουν θετικό μέσο όρο. Αξιοσημείωτη η
+περίπτωση του θέματος της ανάπτυξης της λειτουργίας του προγραμματιστή
+του παιχνιδιού (\textlatin{Developer Router}), όπου στις πρώτες
+προτροπές, δεν δόθηκε στο μοντέλο κάποια κατεύθυνση, με αποτέλεσμα οι
+απαντήσεις που παρήχθηκαν να αξιολογηθούν αρνητικά, ενώ στις επόμενες
+προτροπές, οι απαντήσεις που παρήχθηκαν αξιολογήθηκαν κατά μέσο όρο ίσο
+με μηδέν (0), παρατηρώντας την μεγαλύτερη αύξηση στο μέσο όρο
+αξιολογήσεων από θέμα σε θέμα.
+
+Το θέμα \textlatin{Manual Intervention} αφορούσε τις περιπτώσεις που ο
+προγραμματιστής αναγκάστηκε να επενέβει, με σκοπό να αποφευχθούν
+συνεχόμενες αρνητικές αξιολογήσεις στο ίδιο θέμα μετά από μια σειρά
+λάθος απαντήσεων.
 
 \section{Συμπεράσματα}
 

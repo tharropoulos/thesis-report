@@ -16,6 +16,7 @@
 \usepackage{siunitx}
 \usepackage{dirtytalk}
 \usepackage{color}
+\usepackage[hypcap=true]{caption}
 \usepackage{kmath,kerkis}
 
 \graphicspath{{../PICS/}}
@@ -31,9 +32,9 @@
     \href{mailto:theofact@ece.auth.gr}{\tl{theofact@ece.auth.gr}}}
   \maketitle
 
-  \tableofcontents \thispagestyle{empty}
+  \thispagestyle{empty} \listoffigures \listoftables \tableofcontents
 
-  \include{chapter1} \include{chapter3}
+  \include{chapter1} \include{chapter3} \include{chapter4}
 
   \appendix \include{acronyms}
 
