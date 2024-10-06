@@ -577,6 +577,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/kmath8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/kmath.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/kerkis/ek8a.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/kerkis/ek8r.tfm
+INPUT ../PICS/confusion_matrix.png
+INPUT ../PICS/confusion_matrix.png
+INPUT ../PICS/confusion_matrix.png
+INPUT ../PICS/confusion_matrix.png
 INPUT ./acronyms.tex
 INPUT ./acronyms.tex
 OUTPUT acronyms.aux
