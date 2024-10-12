@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.27)  6 OCT 2024 21:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.6)  12 OCT 2024 20:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,37 +6,37 @@ entering extended mode
 **main.tex
 (./main.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-05-08>
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count189
-\c@chapter=\count190
-\c@section=\count191
-\c@subsection=\count192
-\c@subsubsection=\count193
-\c@paragraph=\count194
-\c@subparagraph=\count195
-\c@figure=\count196
-\c@table=\count197
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count198
-\Gm@cntv=\count199
-\c@Gm@tempcnt=\count266
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -46,38 +46,42 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/05/18 v24.5 The Babel package
-\babel@savecnt=\count267
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count266
 \U@D=\dimen149
-\l@unhyphenated=\language89
- (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
+\l@unhyphenated=\language9
+ (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count268
- (/usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
+\bbl@dirlevel=\count267
+ (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language23). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language23). Reported on input line 108.
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel-greek/greek.ldf
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+) (/usr/share/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2023/10/13 1.15 Greek support for the babel system
-\bbl@monogreek=\count269
-\bbl@polygreek=\count270
-\bbl@ancientgreek=\count271
- (/usr/local/texlive/2024/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+\bbl@monogreek=\count268
+\bbl@polygreek=\count269
+\bbl@ancientgreek=\count270
+ (/usr/share/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
 File: lgrenc.def 2023-09-12 2.5 LGR Greek font encoding definitions
 Now handling font encoding LGR ...
 ... processing UTF-8 mapping file for font encoding LGR
- (/usr/local/texlive/2024/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+ (/usr/share/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
 File: lgrenc.dfu 2023-03-21 1.9 UTF-8 support for Greek
    defining Unicode char U+00A8 (decimal 168)
    defining Unicode char U+00AB (decimal 171)
@@ -428,39 +432,39 @@ File: lgrenc.dfu 2023-03-21 1.9 UTF-8 support for Greek
    defining Unicode char U+10145 (decimal 65861)
    defining Unicode char U+10146 (decimal 65862)
    defining Unicode char U+10147 (decimal 65863)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+) (/usr/share/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
-)))) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
+)))) (/usr/share/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
 Package babel Info: Importing font and identification data for greek
 (babel)             from babel-el.ini. Reported on input line 11.
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+) (/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen150
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count272
+\inf@bad=\count271
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count273
-\leftroot@=\count274
+\uproot@=\count272
+\leftroot@=\count273
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count275
-\DOTSCASE@=\count276
+\classnum@=\count274
+\DOTSCASE@=\count275
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -473,20 +477,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen152
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count277
+\macc@depth=\count276
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count278
+\c@MaxMatrixCols=\count277
 \dotsspace@=\muskip16
-\c@parentequation=\count279
-\dspbrk@lvl=\count280
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
 \tag@help=\toks22
-\row@=\count281
-\column@=\count282
-\maxfields@=\count283
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
 \andhelp@=\toks23
 \eqnshift@=\dimen153
 \alignsep@=\dimen154
@@ -500,170 +504,170 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/parskip/parskip.sty
+) (/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+) (/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count284
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
- (/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+\etb@tempcnta=\count283
+)) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+ (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+)) (/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+) (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
- (/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count285
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+\c@section@level=\count284
 )
 \@linkdim=\dimen159
-\Hy@linkcounter=\count286
-\Hy@pagecounter=\count287
- (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
+ (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count288
- (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count287
+ (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
- (/usr/local/texlive/2024/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
+ (/usr/share/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
 File: puenc-greek.def 2023-09-12 2.5 Greek LICRs for PDF strings
- (/usr/local/texlive/2024/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+ (/usr/share/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
 )))
-Package hyperref Info: Option `unicode' set `true' on input line 4040.
-Package hyperref Info: Hyper figures OFF on input line 4157.
-Package hyperref Info: Link nesting OFF on input line 4162.
-Package hyperref Info: Hyper index ON on input line 4165.
-Package hyperref Info: Plain pages OFF on input line 4172.
-Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Option `unicode' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count289
- (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count288
+ (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
+LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen160
- (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count290
+\Fld@menulength=\count289
 \Field@Width=\dimen161
 \Fld@charsize=\dimen162
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+ (/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count291
-\c@Item=\count292
-\c@Hfootnote=\count293
+\Hy@abspage=\count290
+\c@Item=\count291
+\c@Hfootnote=\count292
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+ (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+ (/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count294
-\c@bookmark@seq@number=\count295
- (/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+\Fld@listcount=\count293
+\c@bookmark@seq@number=\count294
+ (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip53
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
+)
+(/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+ (/usr/share/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count296
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/rotating.sty
+\BKM@id=\count295
+)) (/usr/share/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen163
 \Gin@req@width=\dimen164
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count297
+\c@r@tfl@t=\count296
 \rotFPtop=\skip54
 \rotFPbot=\skip55
 \rot@float@box=\box53
 \rot@mess@toks=\toks26
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
+) (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip56
 \bibsep=\skip57
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count298
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+\c@NAT@ctr=\count297
+) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+ (/usr/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+ (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen165
 \captionmargin=\dimen166
@@ -675,39 +679,39 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen172
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count299
-\c@continuedfloat=\count300
+\c@caption@flags=\count298
+\c@continuedfloat=\count299
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count301
+\c@subfigure=\count300
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count302
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+\c@subtable=\count301
+) (/usr/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count303
+\c@float@type=\count302
 \float@exts=\toks27
 \float@box=\box54
 \@float@everytoks=\toks28
 \@floatcapt=\box55
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2024-05-06 v3.3.17 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count304
-\l__siunitx_number_exponent_fixed_int=\count305
-\l__siunitx_number_min_decimal_int=\count306
-\l__siunitx_number_min_integer_int=\count307
-\l__siunitx_number_round_precision_int=\count308
-\l__siunitx_number_lower_threshold_int=\count309
-\l__siunitx_number_upper_threshold_int=\count310
-\l__siunitx_number_group_first_int=\count311
-\l__siunitx_number_group_size_int=\count312
-\l__siunitx_number_group_minimum_int=\count313
+) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2024-02-15 v3.3.12 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count303
+\l__siunitx_number_exponent_fixed_int=\count304
+\l__siunitx_number_min_decimal_int=\count305
+\l__siunitx_number_min_integer_int=\count306
+\l__siunitx_number_round_precision_int=\count307
+\l__siunitx_number_lower_threshold_int=\count308
+\l__siunitx_number_upper_threshold_int=\count309
+\l__siunitx_number_group_first_int=\count310
+\l__siunitx_number_group_size_int=\count311
+\l__siunitx_number_group_minimum_int=\count312
 \l__siunitx_angle_tmp_dim=\dimen173
 \l__siunitx_angle_marker_box=\box56
 \l__siunitx_angle_unit_box=\box57
-\l__siunitx_compound_count_int=\count314
- (/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations.sty
+\l__siunitx_compound_count_int=\count313
+ (/usr/share/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
 )
 \l__siunitx_table_tmp_box=\box58
@@ -720,10 +724,10 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_table_after_box=\box63
 \l__siunitx_table_before_dim=\dimen176
 \l__siunitx_table_carry_dim=\dimen177
-\l__siunitx_unit_tmp_int=\count315
-\l__siunitx_unit_position_int=\count316
-\l__siunitx_unit_total_int=\count317
- (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+\l__siunitx_unit_tmp_int=\count314
+\l__siunitx_unit_position_int=\count315
+\l__siunitx_unit_total_int=\count316
+ (/usr/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen178
 \ar@mcellbox=\box64
@@ -732,17 +736,16 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \extratabsurround=\skip58
 \backup@length=\skip59
 \ar@cellbox=\box65
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+)) (/usr/share/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
 Package: dirtytalk 2010/11/21 A package making "quoting" easier
-\c@dirtytalk@qdepth=\count318
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+\c@dirtytalk@qdepth=\count317
+) (/usr/share/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/kmath.sty
-(/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/txfonts.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texmf-dist/tex/latex/kerkis/kmath.sty (/usr/share/texmf-dist/tex/latex/txfonts/txfonts.sty
 Package: txfonts 2008/01/22 v3.2.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -848,45 +851,41 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/txss/m/n --> T1/txss/m/n on input line 24.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/txtt/m/n --> T1/txtt/m/n on input line 25.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/kerkis.sty
+) (/usr/share/texmf-dist/tex/latex/kerkis/kerkis.sty
 File: kerkis.sty 2000/02/25 v1.5 Package `kerkis.sty'
    *********************************************** ******** Loading The Kerkis FontFamily ******** ********** Department of Mathematics ********** *********** University of the Aegean ********** ***********************************************
 LaTeX Info: Redefining \LaTeX on input line 156.
 LaTeX Info: Redefining \LaTeXe on input line 166.
 )
 LaTeX Font Info:    Trying to load font information for T1+mak on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/t1mak.fd)
+ (/usr/share/texmf-dist/tex/latex/kerkis/t1mak.fd)
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count319
+ (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count318
 \l__pdf_internal_box=\box66
 ) (./main.aux (./cover.aux
 LaTeX Font Info:    Trying to load font information for LGR+mak on input line 7.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/lgrmak.fd)
+ (/usr/share/texmf-dist/tex/latex/kerkis/lgrmak.fd)
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 7.
 ) (./chapter1.aux
 
 LaTeX Warning: Label `fig:codeComp' multiply defined.
 
-) (./chapter3.aux) (./chapter4.aux
-
-LaTeX Warning: Label `fig:SubjectQuery3' multiply defined.
-
-) (./acronyms.aux))
+) (./chapter3.aux) (./chapter4.aux) (./acronyms.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 26.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omltxmi.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 26.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omstxsy.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 26.
@@ -898,19 +897,19 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 26.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/omxtxex.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 26.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxexa.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 26.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+ (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 26.
@@ -954,30 +953,30 @@ LaTeX Font Info:    ... okay on input line 26.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 26.
-(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count320
+\scratchcounter=\count319
 \scratchdimen=\dimen180
 \scratchbox=\box67
-\nofMPsegments=\count321
-\nofMParguments=\count322
+\nofMPsegments=\count320
+\nofMParguments=\count321
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count323
+\MPscratchCnt=\count322
 \MPscratchDim=\dimen181
-\MPnumerator=\count324
-\makeMPintoPDFobject=\count325
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
 \everyMPtoPDFconversion=\toks31
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package translations Info: no dictionary file `translations-basic-dictionary-greek.trsl' found. on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
+ (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 26.
@@ -996,11 +995,11 @@ LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 18.66588pt on input line 17.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 27.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/ot1txr.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for OML+mak on input line 27.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kerkis/omlmak.fd)
+ (/usr/share/texmf-dist/tex/latex/kerkis/omlmak.fd)
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
 (Font)              scaled to size 15.55188pt on input line 27.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
@@ -1008,19 +1007,19 @@ LaTeX Font Info:    Font shape `OML/mak/m/it' will be
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
 (Font)              scaled to size 8.99994pt on input line 27.
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 27.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsya.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 27.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyb.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 27.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxmia.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 27.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd
+ (/usr/share/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
@@ -1032,7 +1031,7 @@ LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
  [1
 
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/gpkerkis.enc} <../PICS/auth.pdf>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/kerkis/gpkerkis.enc} <../PICS/auth.pdf>]
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 37.
 
@@ -1040,7 +1039,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.50 \end{abstract}
-                    [1{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/kerkisec.enc}]
+                    [1{/usr/share/texmf-dist/fonts/enc/dvips/kerkis/kerkisec.enc}]
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 53.
 
@@ -1090,7 +1089,7 @@ LaTeX Font Info:    Font shape `LGR/mak/m/it' will be
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.32 ...{\textlatin {it}}}}{35}{figure.caption.36}
+l.31 ...�κολούθων}}{34}{figure.caption.35}
                                                   % [1
 
 ]
@@ -1117,7 +1116,7 @@ LaTeX Font Info:    Font shape `T1/mak/m/it' will be
 
  (./chapter1.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  1.
-<../PICS/copilotchat screen.png, id=223, 1927.2pt x 1084.05pt>
+<../PICS/copilotchat screen.png, id=226, 1927.2pt x 1084.05pt>
 File: ../PICS/copilotchat screen.png Graphic file (type png)
 <use ../PICS/copilotchat screen.png>
 Package pdftex.def Info: ../PICS/copilotchat screen.png  used on input line 47.
@@ -1141,27 +1140,27 @@ Overfull \hbox (7.79353pt too wide) in paragraph at lines 82--82
 []\LGR/mak/b/n/17.28 Dhmiourg�a K�di-ka \T1/mak/b/n/17.28 (Co-de Ge-ne-ra-tion) \LGR/mak/b/n/17.28 - O-lo-kl�rw-
  []
 
-[6{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../PICS/copilotchat screen.png (PNG copy)>]
+[6{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../PICS/copilotchat screen.png (PNG copy)>]
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
 (Font)              scaled to size 12.9599pt on input line 96.
-<../PICS/LSPApproach.pdf, id=277, 298.23419pt x 91.3011pt>
+<../PICS/LSPApproach.pdf, id=280, 298.23419pt x 91.3011pt>
 File: ../PICS/LSPApproach.pdf Graphic file (type pdf)
 <use ../PICS/LSPApproach.pdf>
 Package pdftex.def Info: ../PICS/LSPApproach.pdf  used on input line 114.
 (pdftex.def)             Requested size: 298.23346pt x 91.30087pt.
-<../PICS/codeComp.png, id=280, 808.01875pt x 407.5225pt>
+<../PICS/codeComp.png, id=283, 808.01875pt x 407.5225pt>
 File: ../PICS/codeComp.png Graphic file (type png)
 <use ../PICS/codeComp.png>
 Package pdftex.def Info: ../PICS/codeComp.png  used on input line 127.
 (pdftex.def)             Requested size: 441.01773pt x 222.42804pt.
  [7 <../PICS/LSPApproach.pdf>]
-<../PICS/copilot.png, id=303, 1927.2pt x 1045.9075pt>
+<../PICS/copilot.png, id=306, 1927.2pt x 1045.9075pt>
 File: ../PICS/copilot.png Graphic file (type png)
 <use ../PICS/copilot.png>
 Package pdftex.def Info: ../PICS/copilot.png  used on input line 147.
 (pdftex.def)             Requested size: 441.01773pt x 239.34076pt.
  [8 <../PICS/codeComp.png (PNG copy)>]
-<../PICS/reference.png, id=327, 1927.2pt x 1084.05pt>
+<../PICS/reference.png, id=330, 1927.2pt x 1084.05pt>
 File: ../PICS/reference.png Graphic file (type png)
 <use ../PICS/reference.png>
 Package pdftex.def Info: ../PICS/reference.png  used on input line 185.
@@ -1179,7 +1178,7 @@ Package pdftex.def Info: ../PICS/reference.png  used on input line 185.
 ]
 
 pdfTeX warning: pdflatex (file ../PICS/Relational Database Diagram - Component Kit (Community).pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../PICS/Relational Database Diagram - Component Kit (Community).pdf, id=353, 3143.745pt x 1333.98375pt>
+<../PICS/Relational Database Diagram - Component Kit (Community).pdf, id=356, 3143.745pt x 1333.98375pt>
 File: ../PICS/Relational Database Diagram - Component Kit (Community).pdf Graphic file (type pdf)
 <use ../PICS/Relational Database Diagram - Component Kit (Community).pdf>
 Package pdftex.def Info: ../PICS/Relational Database Diagram - Component Kit (Community).pdf  used on input line 66.
@@ -1188,25 +1187,25 @@ Package pdftex.def Info: ../PICS/Relational Database Diagram - Component Kit (Co
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 (Font)              scaled to size 12.9599pt on input line 72.
  [13 <../PICS/Relational Database Diagram - Component Kit (Community).pdf>]
-<../PICS/stack-overflow-tech.png, id=862, 2409.0pt x 3914.625pt>
+<../PICS/stack-overflow-tech.png, id=865, 2409.0pt x 3914.625pt>
 File: ../PICS/stack-overflow-tech.png Graphic file (type png)
 <use ../PICS/stack-overflow-tech.png>
 Package pdftex.def Info: ../PICS/stack-overflow-tech.png  used on input line 115.
 (pdftex.def)             Requested size: 291.12599pt x 473.12314pt.
  [14]
-<../PICS/stack-overflow-db.png, id=889, 2409.0pt x 3824.2875pt>
+<../PICS/stack-overflow-db.png, id=892, 2409.0pt x 3824.2875pt>
 File: ../PICS/stack-overflow-db.png Graphic file (type png)
 <use ../PICS/stack-overflow-db.png>
 Package pdftex.def Info: ../PICS/stack-overflow-db.png  used on input line 136.
 (pdftex.def)             Requested size: 297.9998pt x 473.12314pt.
  [15 <../PICS/stack-overflow-tech.png>] [16 <../PICS/stack-overflow-db.png>]
-<../PICS/stack-overflow-2024-languages.png, id=923, 2409.0pt x 5089.0125pt>
+<../PICS/stack-overflow-2024-languages.png, id=926, 2409.0pt x 5089.0125pt>
 File: ../PICS/stack-overflow-2024-languages.png Graphic file (type png)
 <use ../PICS/stack-overflow-2024-languages.png>
 Package pdftex.def Info: ../PICS/stack-overflow-2024-languages.png  used on input line 170.
 (pdftex.def)             Requested size: 244.55319pt x 516.62314pt.
  [17 <../PICS/stack-overflow-2024-languages.png>]
-<../PICS/stack-overflow-ide.png, id=936, 2409.0pt x 3824.2875pt>
+<../PICS/stack-overflow-ide.png, id=939, 2409.0pt x 3824.2875pt>
 File: ../PICS/stack-overflow-ide.png Graphic file (type png)
 <use ../PICS/stack-overflow-ide.png>
 Package pdftex.def Info: ../PICS/stack-overflow-ide.png  used on input line 195.
@@ -1220,46 +1219,46 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `fig:RDD' on page 18 undefined on input line 211.
 
 [18 <../PICS/stack-overflow-ide.png>] [19]
-<../PICS/ExpertPrompting.pdf, id=961, 579.16376pt x 306.14375pt>
+<../PICS/ExpertPrompting.pdf, id=964, 579.16376pt x 306.14375pt>
 File: ../PICS/ExpertPrompting.pdf Graphic file (type pdf)
 <use ../PICS/ExpertPrompting.pdf>
 Package pdftex.def Info: ../PICS/ExpertPrompting.pdf  used on input line 282.
 (pdftex.def)             Requested size: 441.01773pt x 233.1201pt.
-<../PICS/persona.png, id=964, 1482.53876pt x 329.23pt>
+<../PICS/persona.png, id=967, 1482.53876pt x 329.23pt>
 File: ../PICS/persona.png Graphic file (type png)
 <use ../PICS/persona.png>
 Package pdftex.def Info: ../PICS/persona.png  used on input line 291.
 (pdftex.def)             Requested size: 441.01773pt x 97.93584pt.
-<../PICS/copilot_code.png, id=965, 1184.425pt x 849.1725pt>
+<../PICS/copilot_code.png, id=968, 1184.425pt x 849.1725pt>
 File: ../PICS/copilot_code.png Graphic file (type png)
 <use ../PICS/copilot_code.png>
 Package pdftex.def Info: ../PICS/copilot_code.png  used on input line 312.
 (pdftex.def)             Requested size: 441.01773pt x 316.18433pt.
  [20 <../PICS/ExpertPrompting.pdf> <../PICS/persona.png (PNG copy)>]
-<../PICS/revision.png, id=994, 1336.995pt x 1001.7425pt>
+<../PICS/revision.png, id=997, 1336.995pt x 1001.7425pt>
 File: ../PICS/revision.png Graphic file (type png)
 <use ../PICS/revision.png>
 Package pdftex.def Info: ../PICS/revision.png  used on input line 330.
 (pdftex.def)             Requested size: 441.01773pt x 330.42319pt.
  [21 <../PICS/copilot_code.png>]
-<../PICS/rewrite.png, id=1000, 933.4875pt x 315.1775pt>
+<../PICS/rewrite.png, id=1003, 933.4875pt x 315.1775pt>
 File: ../PICS/rewrite.png Graphic file (type png)
 <use ../PICS/rewrite.png>
 Package pdftex.def Info: ../PICS/rewrite.png  used on input line 339.
 (pdftex.def)             Requested size: 441.01773pt x 148.90291pt.
-<../PICS/manual_intervention.png, id=1001, 1555.8125pt x 1306.8825pt>
+<../PICS/manual_intervention.png, id=1004, 1555.8125pt x 1306.8825pt>
 File: ../PICS/manual_intervention.png Graphic file (type png)
 <use ../PICS/manual_intervention.png>
 Package pdftex.def Info: ../PICS/manual_intervention.png  used on input line 355.
 (pdftex.def)             Requested size: 441.01773pt x 370.45131pt.
  [22 <../PICS/revision.png> <../PICS/rewrite.png>]
-<../PICS/manual_rewrite.png, id=1008, 1102.1175pt x 315.1775pt>
+<../PICS/manual_rewrite.png, id=1011, 1102.1175pt x 315.1775pt>
 File: ../PICS/manual_rewrite.png Graphic file (type png)
 <use ../PICS/manual_rewrite.png>
 Package pdftex.def Info: ../PICS/manual_rewrite.png  used on input line 375.
 (pdftex.def)             Requested size: 441.01773pt x 126.12166pt.
  [23 <../PICS/manual_intervention.png>]
-<../PICS/total_metrics_by_subject.png, id=1015, 722.7pt x 346.896pt>
+<../PICS/total_metrics_by_subject.png, id=1018, 722.7pt x 346.896pt>
 File: ../PICS/total_metrics_by_subject.png Graphic file (type png)
 <use ../PICS/total_metrics_by_subject.png>
 Package pdftex.def Info: ../PICS/total_metrics_by_subject.png  used on input line 443.
@@ -1273,30 +1272,21 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `fig:totalMetrics' on page 25 undefined on input line 449.
 
 [25 <../PICS/total_metrics_by_subject.png>]
-./chapter3.tex:495: Undefined control sequence.
-l.495 δημιουργώντας ένα \enquote
-                                                {νήμα} \textlatin{(threa...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<../PICS/comment_select_clause.png, id=1035, 1353.055pt x 1688.3075pt>
+<../PICS/comment_select_clause.png, id=1038, 1353.055pt x 1688.3075pt>
 File: ../PICS/comment_select_clause.png Graphic file (type png)
 <use ../PICS/comment_select_clause.png>
 Package pdftex.def Info: ../PICS/comment_select_clause.png  used on input line 505.
 (pdftex.def)             Requested size: 441.01773pt x 550.29065pt.
-[26]
+ [26]
 
 pdfTeX warning: pdflatex (file ../PICS/rdd-comment.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../PICS/rdd-comment.pdf, id=1042, 1394.20876pt x 898.35625pt>
+<../PICS/rdd-comment.pdf, id=1045, 1394.20876pt x 898.35625pt>
 File: ../PICS/rdd-comment.pdf Graphic file (type pdf)
 <use ../PICS/rdd-comment.pdf>
 Package pdftex.def Info: ../PICS/rdd-comment.pdf  used on input line 514.
 (pdftex.def)             Requested size: 441.01773pt x 284.16258pt.
 [27 <../PICS/comment_select_clause.png>]
-<../PICS/playlistschema.png, id=1048, 1268.74pt x 696.6025pt>
+<../PICS/playlistschema.png, id=1051, 1268.74pt x 696.6025pt>
 File: ../PICS/playlistschema.png Graphic file (type png)
 <use ../PICS/playlistschema.png>
 Package pdftex.def Info: ../PICS/playlistschema.png  used on input line 549.
@@ -1304,25 +1294,25 @@ Package pdftex.def Info: ../PICS/playlistschema.png  used on input line 549.
  [28 <../PICS/rdd-comment.pdf>]
 
 pdfTeX warning: pdflatex (file ../PICS/playlistrdd.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../PICS/playlistrdd.pdf, id=1338, 1653.17625pt x 1004.75375pt>
+<../PICS/playlistrdd.pdf, id=1341, 1653.17625pt x 1004.75375pt>
 File: ../PICS/playlistrdd.pdf Graphic file (type pdf)
 <use ../PICS/playlistrdd.pdf>
 Package pdftex.def Info: ../PICS/playlistrdd.pdf  used on input line 569.
 (pdftex.def)             Requested size: 441.01773pt x 268.03691pt.
 [29 <../PICS/playlistschema.png>]
-<../PICS/updateorder.png, id=1345, 1927.2pt x 2222.3025pt>
+<../PICS/updateorder.png, id=1348, 1927.2pt x 2222.3025pt>
 File: ../PICS/updateorder.png Graphic file (type png)
 <use ../PICS/updateorder.png>
 Package pdftex.def Info: ../PICS/updateorder.png  used on input line 581.
 (pdftex.def)             Requested size: 441.01773pt x 508.5417pt.
  [30 <../PICS/playlistrdd.pdf>]
-<../PICS/updateorder2.png, id=1680, 2079.77pt x 2527.4425pt>
+<../PICS/updateorder2.png, id=1683, 2079.77pt x 2527.4425pt>
 File: ../PICS/updateorder2.png Graphic file (type png)
 <use ../PICS/updateorder2.png>
 Package pdftex.def Info: ../PICS/updateorder2.png  used on input line 590.
 (pdftex.def)             Requested size: 441.01773pt x 535.9464pt.
  [31 <../PICS/updateorder.png>]
-<../PICS/getbyidplaylist.png, id=1686, 1487.5575pt x 1917.1625pt>
+<../PICS/getbyidplaylist.png, id=1689, 1487.5575pt x 1917.1625pt>
 File: ../PICS/getbyidplaylist.png Graphic file (type png)
 <use ../PICS/getbyidplaylist.png>
 Package pdftex.def Info: ../PICS/getbyidplaylist.png  used on input line 607.
@@ -1338,31 +1328,31 @@ LaTeX Warning: Reference `fig:getByIdPlaylist' on page 33 undefined on input lin
 
 
 pdfTeX warning: pdflatex (file ../PICS/userfollower.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../PICS/userfollower.pdf, id=1694, 954.11093pt x 579.88164pt>
+<../PICS/userfollower.pdf, id=1697, 954.11093pt x 579.88164pt>
 File: ../PICS/userfollower.pdf Graphic file (type pdf)
 <use ../PICS/userfollower.pdf>
 Package pdftex.def Info: ../PICS/userfollower.pdf  used on input line 623.
 (pdftex.def)             Requested size: 441.01773pt x 268.04062pt.
 [33 <../PICS/getbyidplaylist.png>]
-<../PICS/test_general.png, id=1704, 1134.2375pt x 353.32pt>
+<../PICS/test_general.png, id=1707, 1134.2375pt x 353.32pt>
 File: ../PICS/test_general.png Graphic file (type png)
 <use ../PICS/test_general.png>
 Package pdftex.def Info: ../PICS/test_general.png  used on input line 663.
 (pdftex.def)             Requested size: 441.01773pt x 137.37912pt.
  [34 <../PICS/userfollower.pdf>]
-<../PICS/test_terminal.png, id=1904, 1934.22626pt x 793.96625pt>
+<../PICS/test_terminal.png, id=1907, 1934.22626pt x 793.96625pt>
 File: ../PICS/test_terminal.png Graphic file (type png)
 <use ../PICS/test_terminal.png>
 Package pdftex.def Info: ../PICS/test_terminal.png  used on input line 673.
 (pdftex.def)             Requested size: 441.01773pt x 181.02133pt.
  [35 <../PICS/test_general.png> <../PICS/test_terminal.png>]
-<../PICS/test_unit.png, id=1913, 1403.2425pt x 2451.1575pt>
+<../PICS/test_unit.png, id=1916, 1403.2425pt x 2451.1575pt>
 File: ../PICS/test_unit.png Graphic file (type png)
 <use ../PICS/test_unit.png>
 Package pdftex.def Info: ../PICS/test_unit.png  used on input line 720.
 (pdftex.def)             Requested size: 370.46573pt x 647.12314pt.
  [36]
-<../PICS/test_integration.png, id=1919, 1286.8075pt x 1840.8775pt>
+<../PICS/test_integration.png, id=1922, 1286.8075pt x 1840.8775pt>
 File: ../PICS/test_integration.png Graphic file (type png)
 <use ../PICS/test_integration.png>
 Package pdftex.def Info: ../PICS/test_integration.png  used on input line 731.
@@ -1392,13 +1382,13 @@ Overfull \hbox (7.19815pt too wide) in paragraph at lines 769--773
 \LGR/mak/m/n/12 b�sh thn or-j�te-rh pro-tro-p�, tou o-po-�ou h a-n�lu-sh g�ne-tai sto e-p�me-no ke-f�laio. 
  []
 
-<../PICS/rating_perc.png, id=1937, 462.528pt x 346.896pt>
+<../PICS/rating_perc.png, id=1940, 462.528pt x 346.896pt>
 File: ../PICS/rating_perc.png Graphic file (type png)
 <use ../PICS/rating_perc.png>
 Package pdftex.def Info: ../PICS/rating_perc.png  used on input line 776.
 (pdftex.def)             Requested size: 374.86775pt x 281.16418pt.
 [39]
-<../PICS/rating_times.png, id=1946, 462.528pt x 346.896pt>
+<../PICS/rating_times.png, id=1949, 462.528pt x 346.896pt>
 File: ../PICS/rating_times.png Graphic file (type png)
 <use ../PICS/rating_times.png>
 Package pdftex.def Info: ../PICS/rating_times.png  used on input line 784.
@@ -1419,12 +1409,12 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `fig:RatingTimes' on page 40 undefined on input line 790.
 
 [40 <../PICS/rating_perc.png> <../PICS/rating_times.png>]
-<../PICS/avg_sequential.png, id=1955, 462.528pt x 346.896pt>
+<../PICS/avg_sequential.png, id=1958, 462.528pt x 346.896pt>
 File: ../PICS/avg_sequential.png Graphic file (type png)
 <use ../PICS/avg_sequential.png>
 Package pdftex.def Info: ../PICS/avg_sequential.png  used on input line 801.
 (pdftex.def)             Requested size: 308.71106pt x 231.54573pt.
-<../PICS/max_sequential.png, id=1956, 462.528pt x 346.896pt>
+<../PICS/max_sequential.png, id=1959, 462.528pt x 346.896pt>
 File: ../PICS/max_sequential.png Graphic file (type png)
 <use ../PICS/max_sequential.png>
 Package pdftex.def Info: ../PICS/max_sequential.png  used on input line 809.
@@ -1438,12 +1428,12 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `fig:MaxSequential' on page 41 undefined on input line 818.
 
 [41 <../PICS/avg_sequential.png> <../PICS/max_sequential.png>]
-<../PICS/consecutive_streaks.png, id=1964, 462.528pt x 346.896pt>
+<../PICS/consecutive_streaks.png, id=1967, 462.528pt x 346.896pt>
 File: ../PICS/consecutive_streaks.png Graphic file (type png)
 <use ../PICS/consecutive_streaks.png>
 Package pdftex.def Info: ../PICS/consecutive_streaks.png  used on input line 829.
 (pdftex.def)             Requested size: 308.71106pt x 231.54573pt.
-<../PICS/consecutive_streaks_more_than_10.png, id=1965, 462.528pt x 346.896pt>
+<../PICS/consecutive_streaks_more_than_10.png, id=1968, 462.528pt x 346.896pt>
 File: ../PICS/consecutive_streaks_more_than_10.png Graphic file (type png)
 <use ../PICS/consecutive_streaks_more_than_10.png>
 Package pdftex.def Info: ../PICS/consecutive_streaks_more_than_10.png  used on input line 838.
@@ -1457,17 +1447,17 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `fig:ConsecutiveStreaks10' on page 42 undefined on input line 848.
 
 [42 <../PICS/consecutive_streaks.png> <../PICS/consecutive_streaks_more_than_10.png>]
-<../PICS/subject_query_1.png, id=1973, 462.528pt x 346.896pt>
+<../PICS/subject_query_1.png, id=1976, 462.528pt x 346.896pt>
 File: ../PICS/subject_query_1.png Graphic file (type png)
 <use ../PICS/subject_query_1.png>
 Package pdftex.def Info: ../PICS/subject_query_1.png  used on input line 856.
 (pdftex.def)             Requested size: 374.86775pt x 281.16418pt.
-<../PICS/subject_query_2.png, id=1974, 462.528pt x 346.896pt>
+<../PICS/subject_query_2.png, id=1977, 462.528pt x 346.896pt>
 File: ../PICS/subject_query_2.png Graphic file (type png)
 <use ../PICS/subject_query_2.png>
 Package pdftex.def Info: ../PICS/subject_query_2.png  used on input line 865.
 (pdftex.def)             Requested size: 374.86775pt x 281.16418pt.
-<../PICS/subject_query_3.png, id=1975, 462.528pt x 346.896pt>
+<../PICS/subject_query_3.png, id=1978, 462.528pt x 346.896pt>
 File: ../PICS/subject_query_3.png Graphic file (type png)
 <use ../PICS/subject_query_3.png>
 Package pdftex.def Info: ../PICS/subject_query_3.png  used on input line 874.
@@ -1488,7 +1478,7 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `fig:SubjectQuery2' on page 44 undefined on input line 881.
 
 
-Package caption Warning: \label without proper reference on input line 202.
+Package caption Warning: \label without proper reference on input line 878.
 See the caption package documentation for explanation.
 
 
@@ -1509,63 +1499,37 @@ Overfull \hbox (17.77353pt too wide) in paragraph at lines 49--59
 []\LGR/mak/m/n/12 Wst�so, au-t� o-d�gh-se se ar-ke-t�c pro-tro-p�c me mo-na-di-k� pe-rie-q�me-no thn l�xh "\T1/mak/m/n/12 continue\LGR/mak/m/n/12 ",
  []
 
-./chapter4.tex:66: Undefined control sequence.
-l.66 ...η των βιβλιοθηκών \texlatin
-                                                  {pandas} και
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-./chapter4.tex:67: Undefined control sequence.
-l.67 \texlatin
-              {scikit-learn}, η διαδικασία προεπεξεργα...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./chapter4.tex:72: Undefined control sequence.
-l.72 ...τας τη βιβλιοθήκη \texlatin
-                                                  {pandas} για τον α�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (13.75487pt too wide) in paragraph at lines 75--78
+Overfull \hbox (13.75487pt too wide) in paragraph at lines 76--79
 []\LGR/mak/b/n/12 Kwdikopo�hsh Ka-th-go-ri-k�n Me-ta-blh-t�n: \LGR/mak/m/n/12 Oi ka-th-go-ri-k�c me-ta-blh-t�c "\T1/mak/m/n/12 subject\LGR/mak/m/n/12 "
  []
 
 [47]
-Overfull \hbox (7.01572pt too wide) in paragraph at lines 154--157
+Overfull \hbox (7.01572pt too wide) in paragraph at lines 152--155
 []\LGR/mak/b/n/12 Optikopo�hsh A-po-te-le-sm�twn: \LGR/mak/m/n/12 Dh-miour-g�jh-kan p�na-kec s�g-qu-shc (\T1/mak/m/n/12 confusion
  []
 
-[48{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/kerkis/kmath.enc}]
-
-Package natbib Warning: Citation `white2023promptpatterncatalogenhance' on page 49 undefined on input line 182.
-
-
-Overfull \hbox (2.89105pt too wide) in paragraph at lines 178--186
+[48{/usr/share/texmf-dist/fonts/enc/dvips/kerkis/kmath.enc}]
+Overfull \hbox (2.89105pt too wide) in paragraph at lines 177--185
 []\LGR/mak/m/n/12 Oi e-pi-sth-mo-ni-k�c �reu-nec ston ra-gda-�a e-xe-lis-s�me-no to-m�a au-t� e-�nai i-dia-�te-ra pr�sfa-
  []
 
-<../PICS/confusion_matrix.png, id=2027, 722.7pt x 1084.05pt>
+<../PICS/model_accuracy_comparison.png, id=2031, 722.7pt x 361.35pt>
+File: ../PICS/model_accuracy_comparison.png Graphic file (type png)
+<use ../PICS/model_accuracy_comparison.png>
+Package pdftex.def Info: ../PICS/model_accuracy_comparison.png  used on input line 197.
+(pdftex.def)             Requested size: 374.86775pt x 187.43442pt.
+<../PICS/confusion_matrix.png, id=2032, 722.7pt x 1084.05pt>
 File: ../PICS/confusion_matrix.png Graphic file (type png)
 <use ../PICS/confusion_matrix.png>
-Package pdftex.def Info: ../PICS/confusion_matrix.png  used on input line 198.
+Package pdftex.def Info: ../PICS/confusion_matrix.png  used on input line 222.
 (pdftex.def)             Requested size: 374.86775pt x 562.30325pt.
-) [49] [50 <../PICS/confusion_matrix.png>]
+[49 <../PICS/model_accuracy_comparison.png>] [50 <../PICS/confusion_matrix.png>] [51] [52]) [53]
 \openout2 = `acronyms.aux'.
 
  (./acronyms.tex
 \textPi \textalpha \textrho \acctonos \textalpha \textrho \texttau \texteta \textmu \textalpha  {\greekscript \textAlpha \textnumeralsigngreek }.
-) [51
+) [54
 
 
 
@@ -1575,83 +1539,89 @@ LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 (Font)              scaled to size 22.39185pt on input line 2.
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 (Font)              scaled to size 22.39185pt on input line 2.
- [52
+ [55
 
 
 
-] [53] [54]
-Underfull \hbox (badness 1584) in paragraph at lines 195--197
+] [56] [57]
+Underfull \hbox (badness 1584) in paragraph at lines 210--212
 []\T1/mak/m/n/12 J. Kem-per. (2023, March) Ope-nai kills its codex
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 195--197
+Underfull \hbox (badness 1748) in paragraph at lines 210--212
 \T1/mak/m/n/12 27, 2024. [On-line]. Avail-able: []$https : / / thedecoder . com /
  []
 
-[55]
-Underfull \hbox (badness 1199) in paragraph at lines 290--291
+
+Underfull \hbox (badness 2717) in paragraph at lines 226--227
+[]\T1/mak/m/n/12 M. Llama, ``Li-cense,'' []$https : / / github . com / meta-[]llama / llama / blob / main /
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+[]\T1/mak/m/n/12 ``Llama 3.2 doc-u-men-ta-tion,'' []$https : / / www . llama . com / docs /
+ []
+
+[59]
+Underfull \hbox (badness 1199) in paragraph at lines 324--325
 \T1/mak/m/n/12 components / prisma-[]schema / relations / many-[]to-[]many-[]relations$[], 2022, re-
  []
 
-[56]
+[60]
 
-./main.bbl:327: LaTeX Error: Command \textomicron unavailable in encoding T1.
+./main.bbl:366: LaTeX Error: Command \textomicron unavailable in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327 ------, ``2022 stack overflow develο
+l.366 ------, ``2022 stack overflow develο
                                            per survey,'' \emph{Stack Overflo...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./main.bbl:330: LaTeX Error: Command \textomicron unavailable in encoding T1.
+./main.bbl:369: LaTeX Error: Command \textomicron unavailable in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330 ------, ``2023 stack overflow develο
+l.369 ------, ``2023 stack overflow develο
                                            per survey,'' \emph{Stack Overflo...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./main.bbl:333: LaTeX Error: Command \textomicron unavailable in encoding T1.
+./main.bbl:372: LaTeX Error: Command \textomicron unavailable in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.333 ------, ``2024 stack overflow develο
+l.372 ------, ``2024 stack overflow develο
                                            per survey,'' \emph{Stack Overflo...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[57]
-Overfull \hbox (80.82909pt too wide) in paragraph at lines 382--384
+[61]
+Overfull \hbox (80.82909pt too wide) in paragraph at lines 431--433
 \T1/mak/m/n/12 2023-[]12-[]29-[]github-[]copilot-[]chat-[]now-[]generally-[]available-[]for-[]organizations-[]and-[]individuals/$[] 
  []
 
 
-Overfull \hbox (140.7243pt too wide) in paragraph at lines 387--389
+Overfull \hbox (140.7243pt too wide) in paragraph at lines 436--438
 \T1/mak/m/n/12 2023-[]07-[]28-[]smarter-[]more-[]e^^^cient-[]coding-[]github-[]copilot-[]goes-[]beyond-[]codex-[]with-[]improved-[]ai-[]model/$[] 
  []
 
-)
-
-Package natbib Warning: There were undefined citations.
-
-[58] (./main.aux (./cover.aux) (./chapter1.aux) (./chapter3.aux) (./chapter4.aux) (./acronyms.aux))
+) [62] (./main.aux (./cover.aux) (./chapter1.aux) (./chapter3.aux) (./chapter4.aux) (./acronyms.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-05-08>
+L3 programming layer <2024-02-20>
  ***********
 
 
@@ -1665,18 +1635,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 21534 strings out of 473993
- 409042 string characters out of 5741040
- 1942904 words of memory out of 5000000
- 43451 multiletter control sequences out of 15000+600000
+ 21479 strings out of 476000
+ 405341 string characters out of 5792233
+ 1943187 words of memory out of 5000000
+ 43004 multiletter control sequences out of 15000+600000
  603511 words of font info for 150 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 72i,8n,79p,1131b,1220s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (63 pages, 6901567 bytes).
+ 59 hyphenation exceptions out of 8191
+ 72i,8n,79p,1131b,1240s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/kerkis/Kerkis-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/kerkis/Kerkis-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (67 pages, 6932083 bytes).
 PDF statistics:
- 2279 PDF objects out of 2487 (max. 8388607)
- 1456 compressed objects within 15 object streams
- 242 named destinations out of 1000 (max. 500000)
- 350 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2357 PDF objects out of 2487 (max. 8388607)
+ 1527 compressed objects within 16 object streams
+ 267 named destinations out of 1000 (max. 500000)
+ 355 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,31 +1,27 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
+This is BibTeX, Version 0.99d (TeX Live 2024/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: cover.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
-White space in argument---line 11 of file chapter4.aux
- : \citation{@misc{white2023promptpatterncatalogenhance,
- :                                                       title={A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT}, author={Jules White and Quchen Fu and Sam Hays and Michael Sandborn and Carlos Olea and Henry Gilbert and Ashraf Elnashar and Jesse Spencer-Smith and Douglas C. Schmidt}, year={2023}, eprint={2302.11382}, archivePrefix={arXiv}, primaryClass={cs.SE}, url={https://arxiv.org/abs/2302.11382}, }}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: acronyms.aux
 The style file: IEEEtranSN.bst
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated field_info (elt_size=8) to 10152 items from 5000.
 Database file #1: IEEEabrv.bib
 Database file #2: references.bib
-Warning--I didn't find a database entry for "@misc{white2023promptpatterncatalogenhance"
 -- IEEEtranSN.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 ** Sorting Natbib version - not for normal IEEE work.
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
 Warning--to sort, need author, organization, or key in githubcopilot
 Warning--to sort, need author, organization, or key in vscode
 Warning--to sort, need author or key in trendforce2023ai
@@ -43,45 +39,45 @@ Warning--empty journal in Rask2022
 Warning--empty booktitle in bddstudy
 
 Done.
-You've used 101 entries,
+You've used 112 entries,
             5264 wiz_defined-function locations,
-            2062 strings with 36871 characters,
-and the built_in function-call counts, 83128 in all, are:
-= -- 7568
-> -- 3490
-< -- 279
-+ -- 1474
-- -- 972
-* -- 4784
-:= -- 12516
-add.period$ -- 212
-call.type$ -- 101
-change.case$ -- 555
-chr.to.int$ -- 672
-cite$ -- 224
-duplicate$ -- 5045
-empty$ -- 5921
-format.name$ -- 1101
-if$ -- 18478
-int.to.chr$ -- 12
+            2115 strings with 38607 characters,
+and the built_in function-call counts, 89797 in all, are:
+= -- 8264
+> -- 3662
+< -- 287
++ -- 1545
+- -- 1023
+* -- 5081
+:= -- 13651
+add.period$ -- 239
+call.type$ -- 112
+change.case$ -- 605
+chr.to.int$ -- 682
+cite$ -- 246
+duplicate$ -- 5476
+empty$ -- 6408
+format.name$ -- 1162
+if$ -- 19927
+int.to.chr$ -- 13
 int.to.str$ -- 1
-missing$ -- 924
-newline$ -- 399
-num.names$ -- 308
-pop$ -- 3347
+missing$ -- 1014
+newline$ -- 448
+num.names$ -- 344
+pop$ -- 3647
 preamble$ -- 1
-purify$ -- 436
+purify$ -- 466
 quote$ -- 2
-skip$ -- 5684
+skip$ -- 6171
 stack$ -- 0
-substring$ -- 1749
-swap$ -- 3082
+substring$ -- 1799
+swap$ -- 3312
 text.length$ -- 42
-text.prefix$ -- 17
+text.prefix$ -- 19
 top$ -- 6
-type$ -- 2244
+type$ -- 2499
 warning$ -- 15
-while$ -- 327
+while$ -- 354
 width$ -- 0
-write$ -- 1140
-(There was 1 error message)
+write$ -- 1274
+(There were 15 warnings)
