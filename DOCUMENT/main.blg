@@ -12,7 +12,7 @@ Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated field_info (elt_size=8) to 10152 items from 5000.
+Reallocated field_info (elt_size=8) to 10428 items from 5000.
 Database file #1: IEEEabrv.bib
 Database file #2: references.bib
 -- IEEEtranSN.bst version 1.14 (2015/08/26) by Michael Shell.
@@ -39,45 +39,45 @@ Warning--empty journal in Rask2022
 Warning--empty booktitle in bddstudy
 
 Done.
-You've used 112 entries,
+You've used 118 entries,
             5264 wiz_defined-function locations,
-            2115 strings with 38607 characters,
-and the built_in function-call counts, 89797 in all, are:
-= -- 8264
-> -- 3662
-< -- 287
-+ -- 1545
-- -- 1023
-* -- 5081
-:= -- 13651
-add.period$ -- 239
-call.type$ -- 112
-change.case$ -- 605
-chr.to.int$ -- 682
-cite$ -- 246
-duplicate$ -- 5476
-empty$ -- 6408
-format.name$ -- 1162
-if$ -- 19927
+            2145 strings with 39146 characters,
+and the built_in function-call counts, 94641 in all, are:
+= -- 8736
+> -- 3785
+< -- 320
++ -- 1601
+- -- 1053
+* -- 5317
+:= -- 14417
+add.period$ -- 251
+call.type$ -- 118
+change.case$ -- 626
+chr.to.int$ -- 745
+cite$ -- 258
+duplicate$ -- 5786
+empty$ -- 6756
+format.name$ -- 1202
+if$ -- 21021
 int.to.chr$ -- 13
 int.to.str$ -- 1
-missing$ -- 1014
-newline$ -- 448
-num.names$ -- 344
-pop$ -- 3647
+missing$ -- 1065
+newline$ -- 468
+num.names$ -- 368
+pop$ -- 3775
 preamble$ -- 1
-purify$ -- 466
+purify$ -- 482
 quote$ -- 2
-skip$ -- 6171
+skip$ -- 6550
 stack$ -- 0
-substring$ -- 1799
-swap$ -- 3312
-text.length$ -- 42
+substring$ -- 1948
+swap$ -- 3529
+text.length$ -- 51
 text.prefix$ -- 19
 top$ -- 6
-type$ -- 2499
+type$ -- 2630
 warning$ -- 15
-while$ -- 354
+while$ -- 381
 width$ -- 0
-write$ -- 1274
+write$ -- 1345
 (There were 15 warnings)

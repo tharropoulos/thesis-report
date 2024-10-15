@@ -315,9 +315,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/kerkis/gk7a.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/kerkis/ek8a.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/kerkis/ek8r.tfm
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/kerkis/kerkisec.enc
-INPUT /usr/share/texmf-dist/fonts/tfm/public/kerkis/ekb8a.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/public/kerkis/ekb8a.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/public/kerkis/ekb8r.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/kerkis/kmath8a.tfm
@@ -416,10 +413,13 @@ INPUT ../PICS/copilot.png
 INPUT ../PICS/copilot.png
 INPUT ../PICS/copilot.png
 INPUT ../PICS/copilot.png
+INPUT /usr/share/texmf-dist/fonts/tfm/public/kerkis/ekb8a.tfm
 INPUT ../PICS/reference.png
 INPUT ../PICS/reference.png
 INPUT ../PICS/reference.png
 INPUT ../PICS/reference.png
+INPUT /usr/share/texmf-dist/fonts/vf/public/kerkis/ekb8a.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/kerkis/ekb8r.tfm
 INPUT ./chapter3.tex
 INPUT ./chapter3.tex
 OUTPUT chapter3.aux
