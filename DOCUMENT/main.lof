@@ -1,49 +1,57 @@
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Παράδειγμα χρήσης του \textlatin {GitHub Copilot Chat} εντός του \textlatin {IDE} \textlatin {Visual Studio Code} \cite {vscodeintro, vscode} }}{6}{figure.caption.6}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Η αρχιτεκτονική του \textlatin {Language Server Protocol}, \textit {Δανεισμένο από \cite {Rodriguez-Echeverria2018}}}}{7}{figure.caption.8}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Παράδειγμα Ολοκλήρωσης Κώδικα εντός του \textlatin {IDE} \textlatin {Visual Studio Code} }}{8}{figure.caption.9}%
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Παράδειγμα Δημιουργίας Κώδικα σε πραγματικό χρόνo \textlatin {(real time code generation)} εντός του \textlatin {IDE} \textlatin {Visual Studio Code} από το \textlatin {GitHub Copilot } }}{9}{figure.caption.11}%
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Παράδειγμα Δημιουργίας Κώδικα σε πραγματικό χρόνo \textlatin {(real time code generation)} εντός του \textlatin {IDE} \textlatin {Visual Studio Code} από το \textlatin {GitHub Copilot } }}{10}{figure.caption.12}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Παράδειγμα χρήσης του \textlatin {GitHub Copilot Chat} εντός του \textlatin {IDE} \textlatin {Visual Studio Code} \cite {vscodeintro, vscode} }}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Η αρχιτεκτονική του \textlatin {Language Server Protocol}, \textit {Δανεισμένο από \cite {Rodriguez-Echeverria2018}}}}{8}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Παράδειγμα Ολοκλήρωσης Κώδικα εντός του \textlatin {IDE} \textlatin {Visual Studio Code} }}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Παράδειγμα Δημιουργίας Κώδικα σε πραγματικό χρόνo \textlatin {(real time code generation)} εντός του \textlatin {IDE} \textlatin {Visual Studio Code} από το \textlatin {GitHub Copilot } }}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Παράδειγμα Δημιουργίας Κώδικα σε πραγματικό χρόνo \textlatin {(real time code generation)} εντός του \textlatin {IDE} \textlatin {Visual Studio Code} από το \textlatin {GitHub Copilot } }}{11}{figure.caption.12}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Σχεσιακό Διάγραμμα Οντοτήτων της εφαρμογής}}{12}{figure.caption.13}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Δημοφιλέστερα Πλαίσια Διαδικτύου και τεχνολογίες του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{13}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Δημοφιλέστερες Βάσεις Δεδομένων του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{14}{figure.caption.15}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Δημοφιλέστερες Γλώσσες Προγραμματισμού του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{15}{figure.caption.16}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Δημοφιλέστερα περιβάλλοντα ανάπτυξης (\textlatin {IDE}) του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{16}{figure.caption.17}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Η μεθοδολογία δημιουργίας περσόνας για το μοντέλο, \textit {Δανεισμένο από \cite {xu2023expertprompting}} }}{19}{figure.caption.18}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Η προτροπή που δόθηκε στο μοντέλο για την δημιουργία της περσόνας}}{19}{figure.caption.19}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Παράδειγμα κώδικα που παρήχθη από το μοντέλο, με ορθογραφικό λάθος}}{20}{figure.caption.20}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Παράδειγμα διόρθωσης λάθους από το μοντέλο μεγάλης έκτασης, μετά την προτροπή του προγραμματιστή}}{21}{figure.caption.21}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Παράδειγμα διόρθωσης λάθους από το μοντέλο μικρής έκτασης, μετά την προτροπή του προγραμματιστή}}{21}{figure.caption.22}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Παράδειγμα διόρθωσης λάθους από τον προγραμματιστή, μετά την αδυναμία του μοντέλου να διορθώσει το λάθος}}{22}{figure.caption.23}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Παράδειγμα διόρθωσης λάθους μικρής έκτασης από τον προγραμματιστή, μετά την αδυναμία του μοντέλου να διορθώσει το λάθος}}{23}{figure.caption.24}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Συνολικά μετρικά ανά τύπο}}{24}{figure.caption.27}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Παράδειγμα μεθόδου που αφορά τα σχόλια, με πολλαπλές σχέσεις Μ:Ν}}{26}{figure.caption.28}%
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Σχεσιακό διάγραμμα της οντότητας του σχολίου}}{27}{figure.caption.29}%
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Τύπος δεδομένων για την δημιουργία της οντότητας της λίστας}}{28}{figure.caption.30}%
-\contentsline {figure}{\numberline {2.17}{\ignorespaces Σχεσιακό διάγραμμα της οντότητας της λίστας}}{29}{figure.caption.31}%
-\contentsline {figure}{\numberline {2.18}{\ignorespaces Παράδειγμα μεθόδου που αφορά την αλλαγή της σειράς των βιντεοπαιχνιδιών στη λίστα, \textit {Μέρος 1}}}{30}{figure.caption.32}%
-\contentsline {figure}{\numberline {2.19}{\ignorespaces Παράδειγμα μεθόδου που αφορά την αλλαγή της σειράς των βιντεοπαιχνιδιών στη λίστα, \textit {Μέρος 2}}}{31}{figure.caption.33}%
-\contentsline {figure}{\numberline {2.20}{\ignorespaces Παράδειγμα μεθόδου που αφορά την ανάκτηση λίστας με βάση το αναγνωριστικό της}}{32}{figure.caption.34}%
-\contentsline {figure}{\numberline {2.21}{\ignorespaces Σχεσιακό διάγραμμα της σχέσης μεταξύ χρηστών και ακολούθων}}{33}{figure.caption.35}%
-\contentsline {figure}{\numberline {2.22}{\ignorespaces Παράδειγμα μεθόδου που αφορά την δημιουργία ενός ελέγχου, με χρήση των μεθόδων \textit {\textlatin {describe}} και \textit {\textlatin {it}}}}{34}{figure.caption.36}%
-\contentsline {figure}{\numberline {2.23}{\ignorespaces Παράδειγμα αποτελέσματος ελέγχου σε διεπαφή τερματικού, με χρήση των μεθόδων \textit {\textlatin {describe}} και \textit {\textlatin {it}}, μέσω του εργαλείου \textlatin {Jest}}}{34}{figure.caption.37}%
-\contentsline {figure}{\numberline {2.24}{\ignorespaces Παράδειγμα ελέγχου μονάδας για την επιτυχημένη δημιουργία παιχνιδιού}}{36}{figure.caption.38}%
-\contentsline {figure}{\numberline {2.25}{\ignorespaces Παράδειγμα ελέγχου συμαβότητας για την επιτυχημένη δημιουργία παιχνιδιού}}{37}{figure.caption.39}%
-\contentsline {figure}{\numberline {2.26}{\ignorespaces Ποσοστό αξιολόγησης απαντήσεων}}{39}{figure.caption.40}%
-\contentsline {figure}{\numberline {2.27}{\ignorespaces Αριθμός αξιολόγησης απαντήσεων}}{39}{figure.caption.41}%
-\contentsline {figure}{\numberline {2.28}{\ignorespaces Μέσος όρος συνεχόμενης αξιολόγησης απαντήσεων}}{40}{figure.caption.42}%
-\contentsline {figure}{\numberline {2.29}{\ignorespaces Μέγιστη συνεχόμενη αξιολόγηση απαντήσεων}}{40}{figure.caption.43}%
-\contentsline {figure}{\numberline {2.30}{\ignorespaces Αριθμός εμφανίσεων συνεχόμενων αξιολογήσεων άνω των τριών (3)}}{41}{figure.caption.44}%
-\contentsline {figure}{\numberline {2.31}{\ignorespaces Αριθμός εμφανίσεων συνεχόμενων αξιολογήσεων άνω των δέκα (10)}}{41}{figure.caption.45}%
-\contentsline {figure}{\numberline {2.32}{\ignorespaces Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit {μέρος 1}}}{42}{figure.caption.46}%
-\contentsline {figure}{\numberline {2.33}{\ignorespaces Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit {μέρος 2}}}{42}{figure.caption.47}%
-\contentsline {figure}{\numberline {2.34}{\ignorespaces Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit {μέρος 3}}}{43}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Σχεσιακό Διάγραμμα Οντοτήτων της εφαρμογής}}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Δημοφιλέστερα Πλαίσια Διαδικτύου και τεχνολογίες του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Δημοφιλέστερες Βάσεις Δεδομένων του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{15}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Δημοφιλέστερες Γλώσσες Προγραμματισμού του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{16}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Διάγραμμα Επιλογής Εφαρμογής Προς Ανάπτυξη}}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Δημοφιλέστερα περιβάλλοντα ανάπτυξης (\textlatin {IDE}) του 2024, \textit {Δανεισμένο από \cite {so2024}}}}{18}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Η μεθοδολογία δημιουργίας περσόνας για το μοντέλο, \textit {Δανεισμένο από \cite {xu2023expertprompting}} }}{21}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Η προτροπή που δόθηκε στο μοντέλο για την δημιουργία της περσόνας}}{21}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Παράδειγμα κώδικα που παρήχθη από το μοντέλο, με ορθογραφικό λάθος}}{22}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Παράδειγμα διόρθωσης λάθους από το μοντέλο μεγάλης έκτασης, μετά την προτροπή του προγραμματιστή}}{23}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Παράδειγμα διόρθωσης λάθους από το μοντέλο μικρής έκτασης, μετά την προτροπή του προγραμματιστή}}{23}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Παράδειγμα διόρθωσης λάθους από τον προγραμματιστή, μετά την αδυναμία του μοντέλου να διορθώσει το λάθος}}{24}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Παράδειγμα διόρθωσης λάθους μικρής έκτασης από τον προγραμματιστή, μετά την αδυναμία του μοντέλου να διορθώσει το λάθος}}{25}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Συνολικά μετρικά ανά τύπο}}{26}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Παράδειγμα μεθόδου που αφορά τα σχόλια, με πολλαπλές σχέσεις Μ:Ν}}{28}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Σχεσιακό διάγραμμα της οντότητας του σχολίου}}{29}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Τύπος δεδομένων για την δημιουργία της οντότητας της λίστας}}{30}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Σχεσιακό διάγραμμα της οντότητας της λίστας}}{31}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Παράδειγμα μεθόδου που αφορά την αλλαγή της σειράς των βιντεοπαιχνιδιών στη λίστα, \textit {Μέρος 1}}}{32}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Παράδειγμα μεθόδου που αφορά την αλλαγή της σειράς των βιντεοπαιχνιδιών στη λίστα, \textit {Μέρος 2}}}{33}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Παράδειγμα μεθόδου που αφορά την ανάκτηση λίστας με βάση το αναγνωριστικό της}}{34}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Σχεσιακό διάγραμμα της σχέσης μεταξύ χρηστών και ακολούθων}}{35}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Παράδειγμα μεθόδου που αφορά την δημιουργία ενός ελέγχου, με χρήση των μεθόδων \textit {\textlatin {describe}} και \textit {\textlatin {it}}}}{36}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Παράδειγμα αποτελέσματος ελέγχου σε διεπαφή τερματικού, με χρήση των μεθόδων \textit {\textlatin {describe}} και \textit {\textlatin {it}}, μέσω του εργαλείου \textlatin {Jest}}}{36}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Παράδειγμα ελέγχου μονάδας για την επιτυχημένη δημιουργία παιχνιδιού}}{38}{figure.caption.39}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Παράδειγμα ελέγχου συμαβότητας για την επιτυχημένη δημιουργία παιχνιδιού}}{39}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Ποσοστό αξιολόγησης απαντήσεων}}{41}{figure.caption.41}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces Αριθμός αξιολόγησης απαντήσεων}}{41}{figure.caption.42}%
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Μέσος όρος συνεχόμενης αξιολόγησης απαντήσεων}}{42}{figure.caption.43}%
+\contentsline {figure}{\numberline {2.30}{\ignorespaces Μέγιστη συνεχόμενη αξιολόγηση απαντήσεων}}{42}{figure.caption.44}%
+\contentsline {figure}{\numberline {2.31}{\ignorespaces Αριθμός εμφανίσεων συνεχόμενων αξιολογήσεων άνω των τριών (3)}}{43}{figure.caption.45}%
+\contentsline {figure}{\numberline {2.32}{\ignorespaces Αριθμός εμφανίσεων συνεχόμενων αξιολογήσεων άνω των δέκα (10)}}{43}{figure.caption.46}%
+\contentsline {figure}{\numberline {2.33}{\ignorespaces Απόδοση μοντέλων ανά τύπο θέματος}}{44}{figure.caption.47}%
+\contentsline {figure}{\numberline {2.34}{\ignorespaces Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit {μέρος 2}}}{44}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.35}{\ignorespaces Μέσος όρος αξιολόγησης απαντήσεων για θέματα, \textit {μέρος 3}}}{45}{figure.caption.49}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Σύγκριση ακρίβειας μοντέλων}}{48}{figure.caption.49}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Πίνακες Σύγχυσης μοντέλων}}{49}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Διάγραμμα Ανάπτυξης Μοντέλου}}{50}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Σύγκριση ακρίβειας μοντέλων}}{51}{figure.caption.51}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Πίνακες Σύγχυσης μοντέλων}}{52}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Απόδοση μοντέλων ανά τύπο θέματος}}{54}{figure.caption.53}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Απόδοση μοντέλων ανά κλάση}}{54}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Απόδοση μοντέλων ανά θέμα, \textit {μέρος 1}}}{55}{figure.caption.55}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Απόδοση μοντέλων ανά θέμα, \textit {μέρος 2}}}{55}{figure.caption.56}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Απόδοση μοντέλων ανά θέμα, \textit {μέρος 3}}}{56}{figure.caption.57}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Απόδοση μοντέλων ανά θέμα, \textit {μέρος 4}}}{57}{figure.caption.58}%
 \addvspace {10\p@ }
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 

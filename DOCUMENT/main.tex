@@ -24,22 +24,18 @@
 \def\tl{\textlatin} \def\tg{\textgreek}
 
 \begin{document}
+  \hypersetup{colorlinks=true}
 
   \include{cover}
 
-  \title{Τίτλος διπλωματικής}
-  \author{Θεοφάνης Θαρρόπουλος\\
-    \href{mailto:theofact@ece.auth.gr}{\tl{theofact@ece.auth.gr}}}
-  \maketitle
-
   \thispagestyle{empty} \listoffigures \listoftables \tableofcontents
 
-  \include{chapter1} \include{chapter3} \include{chapter4}
+  \include{chapter1} \include{chapter3} \include{chapter4} \include{DOCUMENT/chapter2}
 
   \appendix \include{acronyms}
 
   \selectlanguage{english}
 
-  \bibliographystyle{IEEEtranSN} \bibliography{IEEEabrv,references}
+  \bibliographystyle{unsrt} \bibliography{IEEEabrv,references}
 
 \end{document}
